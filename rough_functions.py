@@ -62,6 +62,7 @@ def pullSenate():
     
     senatePulled['snp500']=0
     senatePulled.loc[senatePulled['ticker'].isin(snp500tickers).index, 'snp500']=1
+    senatePulled['last_name'] = senatePulled['name'].str.split(' ').str[-1]
     senatePulled.to_csv('senate.csv')
 
 def pullHouse():
@@ -126,7 +127,7 @@ def pullHouse():
     housePulled['snp500']=0
     housePulled.loc[housePulled['ticker'].isin(snp500tickers).index, 'snp500']=1
 
-
+    housePulled['last_name'] = housePulled['name'].str.split(' ').str[-1]
 
     housePulled.to_csv('house.csv')
 
@@ -155,6 +156,8 @@ def readHouse():
 
 def readData():
     toReturn = pd.read_csv('data.csv')
+    toReturn['disclosure_date'] =  pd.to_datetime(toReturn['disclosure_date'], errors = 'coerce')
+    toReturn['transaction_date'] =  pd.to_datetime(toReturn['transaction_date'], errors = 'coerce')   
     toReturn = toReturn.iloc[: , 1:]
     return toReturn
 
