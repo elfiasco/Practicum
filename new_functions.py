@@ -39,6 +39,8 @@ def searchDataByName(name, data):
 
 def getCommitteesByName(df, name, min_year=2005, max_year=2023):
     list_of_lists = (df.loc[df[(df['name'].str.contains(name.lower().capitalize())) & (df['year']>=min_year) & (df['year']<=max_year)].index, 'committees'])
+    if len(list_of_lists)==0:
+        return []
     result = list(set((str(list_of_lists.sum()).replace("'",'').replace('[]',',').replace('[','').replace(']','').replace(', ',',').replace(' ','')).split(',')))
     return result
 

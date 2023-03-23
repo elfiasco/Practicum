@@ -1,1610 +1,1610 @@
 ,gender,year,name,committees
-0,M,2005,Akaka,['armedservices']
-1,M,2005,Alexander,['budget']
-2,M,2005,Allard,['appropriations']
-3,M,2005,Allen,"['commerce', 'science', 'transportation']"
-4,M,2005,Baucus,"['agriculture', 'nutrition', 'forestry']"
-5,M,2005,Bayh,['armedservices']
-6,M,2005,Bennett,['appropriations']
-7,M,2005,Biden,['foreignrelations']
-8,M,2005,Bingaman,"['energy', 'naturalresources']"
-9,M,2005,Bond,['appropriations']
-10,W,2005,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2005,Brownback,['appropriations']
-12,M,2005,Bunning,"['banking', 'housing', 'urbanaffairs']"
-13,M,2005,Burns,['appropriations']
-14,M,2005,Burr,"['energy', 'naturalresources']"
-15,M,2005,Byrd,['appropriations']
-16,M,2005,Carper,"['banking', 'housing', 'urbanaffairs']"
-17,M,2005,Chafee,"['environment', 'publicworks']"
-18,M,2005,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-19,W,2005,Clinton,['armedservices']
-20,M,2005,Coburn,"['homelandsecurity', 'governmentalaffairs']"
-21,M,2005,Cochran,"['agriculture', 'nutrition', 'forestry']"
-22,M,2005,Coleman,"['agriculture', 'nutrition', 'forestry']"
-23,M,2005,Conrad,"['agriculture', 'nutrition', 'forestry']"
-24,M,2005,Cornyn,['armedservices']
-25,M,2005,Craig,['appropriations']
-26,M,2005,Crapo,"['agriculture', 'nutrition', 'forestry']"
-27,M,2005,Dayton,"['agriculture', 'nutrition', 'forestry']"
-28,M,2005,"D
-emint","['commerce', 'science', 'transportation']"
-29,M,2005,"D
-ewine",['appropriations']
-30,M,2005,Dodd,"['banking', 'housing', 'urbanaffairs']"
-31,W,2005,Dole,['armedservices']
-32,M,2005,Domenici,['appropriations']
-33,M,2005,Dorgan,['appropriations']
-34,M,2005,Durbin,['appropriations']
-35,M,2005,Ensign,['armedservices']
-36,M,2005,Enzi,"['banking', 'housing', 'urbanaffairs']"
-37,M,2005,Feingold,['budget']
-38,W,2005,Feinstein,['appropriations']
-39,M,2005,Frist,['finance']
-40,M,2005,Graham,['armedservices']
-41,M,2005,Grassley,"['agriculture', 'nutrition', 'forestry']"
-42,M,2005,Gregg,['appropriations']
-43,M,2005,Hagel,"['banking', 'housing', 'urbanaffairs']"
-44,M,2005,Harkin,"['agriculture', 'nutrition', 'forestry']"
-45,M,2005,Hatch,['finance']
-46,W,2005,Hutchison,['appropriations']
-47,M,2005,Inhofe,['armedservices']
-48,M,2005,Inouye,['appropriations']
-49,M,2005,Isakson,"['environment', 'publicworks']"
-50,M,2005,Jeffords,"['environment', 'publicworks']"
-51,M,2005,Johnson,['appropriations']
-52,M,2005,Kennedy,['armedservices']
-53,M,2005,Kerry,"['commerce', 'science', 'transportation']"
-54,M,2005,Kohl,['appropriations']
-55,M,2005,Kyl,['finance']
-56,M,2005,Lautenberg,"['commerce', 'science', 'transportation']"
-57,M,2005,Leahy,"['agriculture', 'nutrition', 'forestry']"
-58,M,2005,Levin,['armedservices']
-59,M,2005,Lieberman,['armedservices']
-60,W,2005,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-61,M,2005,Lott,"['commerce', 'science', 'transportation']"
-62,M,2005,Lugar,"['agriculture', 'nutrition', 'forestry']"
-63,M,2005,Martinez,"['banking', 'housing', 'urbanaffairs']"
-64,M,2005,"M
-ccain",['armedservices']
-65,M,2005,"M
-cconnell","['agriculture', 'nutrition', 'forestry']"
-66,M,2005,Menendez,"['banking', 'housing', 'urbanaffairs']"
-67,W,2005,Murray,['appropriations']
-68,M,2005,Nelson,['armedservices']
-69,M,2005,Nelson,"['agriculture', 'nutrition', 'forestry']"
-70,M,2005,Obama,"['environment', 'publicworks']"
-71,M,2005,Pryor,"['commerce', 'science', 'transportation']"
-72,M,2005,Reed,['armedservices']
-73,M,2005,Reid,"['nutrition', 'forestry']"
-74,M,2005,Rockefeller,"['commerce', 'science', 'transportation']"
-75,M,2005,Salazar,"['agriculture', 'nutrition', 'forestry']"
-76,M,2005,Santorum,"['agriculture', 'nutrition', 'forestry']"
-77,M,2005,Sarbanes,"['banking', 'housing', 'urbanaffairs']"
-78,M,2005,Schumer,"['banking', 'housing', 'urbanaffairs']"
-79,M,2005,Sessions,['armedservices']
-80,M,2005,Shelby,['appropriations']
-81,M,2005,Smith,"['commerce', 'science', 'transportation']"
-82,M,2005,Specter,['appropriations']
-83,M,2005,Stevens,['appropriations']
-84,M,2005,Sununu,"['banking', 'housing', 'urbanaffairs']"
-85,M,2005,Talent,"['agriculture', 'nutrition', 'forestry']"
-86,M,2005,Thomas,"['agriculture', 'nutrition', 'forestry']"
-87,M,2005,Thune,['armedservices']
-88,M,2005,Vitter,"['commerce', 'science', 'transportation']"
-89,M,2005,Voinovich,"['environment', 'publicworks']"
-90,M,2005,Warner,['armedservices']
-91,M,2005,Wyden,['budget']
-0,M,2005,Akaka,['armedservices']
-1,M,2005,Alexander,['appropriations']
-2,M,2005,Allard,['appropriations']
-3,M,2005,Barrasso,"['energy', 'naturalresources']"
-4,M,2005,Baucus,"['agriculture', 'nutrition', 'forestry']"
-5,M,2005,Bayh,['armedservices']
-6,M,2005,Bennett,['appropriations']
-7,M,2005,Biden,['foreignrelations']
-8,M,2005,Bingaman,"['energy', 'naturalresources']"
-9,M,2005,Bond,['appropriations']
-10,W,2005,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2005,Brown,"['agriculture', 'nutrition', 'forestry']"
-12,M,2005,Brownback,['appropriations']
-13,M,2005,Bunning,"['banking', 'housing', 'urbanaffairs']"
-14,M,2005,Burr,"['energy', 'naturalresources']"
-15,M,2005,Byrd,['appropriations']
-16,M,2005,Cardin,['budget']
-17,M,2005,Carper,"['banking', 'housing', 'urbanaffairs']"
-18,M,2005,Casey,"['agriculture', 'nutrition', 'forestry']"
-19,M,2005,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-20,W,2005,Clinton,['armedservices']
-21,M,2005,Coburn,"['health', 'education', 'labor', 'pensions']"
-22,M,2005,Cochran,"['agriculture', 'nutrition', 'forestry']"
-23,M,2005,Coleman,"['agriculture', 'nutrition', 'forestry']"
-24,M,2005,Conrad,"['agriculture', 'nutrition', 'forestry']"
-25,M,2005,Corker,['armedservices']
-26,M,2005,Cornyn,['armedservices']
-27,M,2005,Craig,['appropriations']
-28,M,2005,Crapo,"['agriculture', 'nutrition', 'forestry']"
-29,M,2005,Demint,"['commerce', 'science', 'transportation']"
-30,M,2005,Dodd,"['banking', 'housing', 'urbanaffairs']"
-31,W,2005,Dole,['armedservices']
-32,M,2005,Domenici,['appropriations']
-33,M,2005,Dorgan,['appropriations']
-34,M,2005,Durbin,['appropriations']
-35,M,2005,Ensign,['budget']
-36,M,2005,Enzi,"['banking', 'housing', 'urbanaffairs']"
-37,M,2005,Feingold,['budget']
-38,W,2005,Feinstein,['appropriations']
-39,M,2005,Graham,"['agriculture', 'nutrition', 'forestry']"
-40,M,2005,Grassley,"['agriculture', 'nutrition', 'forestry']"
-41,M,2005,Gregg,['appropriations']
-42,M,2005,Hagel,"['banking', 'housing', 'urbanaffairs']"
-43,M,2005,Harkin,"['agriculture', 'nutrition', 'forestry']"
-44,M,2005,Hatch,['finance']
-45,W,2005,Hutchison,['appropriations']
-46,M,2005,Inhofe,['armedservices']
-47,M,2005,Inouye,['appropriations']
-48,M,2005,Isakson,"['environment', 'publicworks']"
-49,M,2005,Johnson,['appropriations']
-50,M,2005,Kennedy,['armedservices']
-51,M,2005,Kerry,"['commerce', 'science', 'transportation']"
-52,M,2005,Kohl,['appropriations']
-53,M,2005,Kyl,['finance']
-54,M,2005,Lautenberg,['appropriations']
-55,M,2005,Leahy,"['agriculture', 'nutrition', 'forestry']"
-56,M,2005,Levin,['armedservices']
-57,M,2005,Lieberman,['armedservices']
-58,W,2005,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-59,M,2005,Lott,"['commerce', 'science', 'transportation']"
-60,M,2005,Lugar,"['agriculture', 'nutrition', 'forestry']"
-61,M,2005,Martinez,['armedservices']
-62,M,2005,Mccain,['armedservices']
-63,W,2005,Mccaskill,['armedservices']
-64,M,2005,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-65,M,2005,Menendez,"['banking', 'housing', 'urbanaffairs']"
-66,W,2005,Murray,['appropriations']
-67,M,2005,Nelson,['armedservices']
-68,M,2005,Nelson,"['agriculture', 'nutrition', 'forestry']"
-69,M,2005,Obama,['foreignrelations']
-70,M,2005,Pryor,['armedservices']
-71,M,2005,Reed,['appropriations']
-72,M,2005,Reid,"['rules', 'nutrition', 'forestry']"
-73,M,2005,Rockefeller,"['commerce', 'science', 'transportation']"
-74,M,2005,Salazar,"['agriculture', 'nutrition', 'forestry']"
-75,M,2005,Sanders,['budget']
-76,M,2005,Schumer,"['banking', 'housing', 'urbanaffairs']"
-77,M,2005,Sessions,['armedservices']
-78,M,2005,Shelby,['appropriations']
-79,M,2005,Smith,"['commerce', 'science', 'transportation']"
-80,M,2005,Specter,['appropriations']
-81,M,2005,Stevens,['appropriations']
-82,M,2005,Sununu,"['banking', 'housing', 'urbanaffairs']"
-83,M,2005,Tester,"['banking', 'housing', 'urbanaffairs']"
-84,M,2005,Thune,"['agriculture', 'nutrition', 'forestry']"
-85,M,2005,Vitter,"['commerce', 'science', 'transportation']"
-86,M,2005,Voinovich,"['environment', 'publicworks']"
-87,M,2005,Warner,['armedservices']
-88,M,2005,Webb,['armedservices']
-89,M,2005,Whitehouse,['budget']
-90,M,2005,Wyden,['budget']
-0,M,2005,Akaka,['armedservices']
-1,M,2005,Alexander,['appropriations']
-2,M,2005,Allard,['appropriations']
-3,M,2005,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2005,Bayh,['armedservices']
-5,M,2005,Bennett,['appropriations']
-6,M,2005,Biden,['foreignrelations']
-7,M,2005,Bingaman,"['energy', 'naturalresources']"
-8,M,2005,Bond,['appropriations']
-9,W,2005,Boxer,"['commerce', 'science', 'transportation']"
-10,M,2005,Brown,"['agriculture', 'nutrition', 'forestry']"
-11,M,2005,Brownback,['appropriations']
-12,M,2005,Bunning,"['banking', 'housing', 'urbanaffairs']"
-13,M,2005,Burr,"['energy', 'naturalresources']"
-14,M,2005,Byrd,['appropriations']
-15,M,2005,Cardin,['budget']
-16,M,2005,Carper,"['banking', 'housing', 'urbanaffairs']"
-17,M,2005,Casey,"['agriculture', 'nutrition', 'forestry']"
-18,M,2005,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-19,W,2005,Clinton,['armedservices']
-20,M,2005,Coburn,"['health', 'education', 'labor', 'pensions']"
-21,M,2005,Cochran,"['agriculture', 'nutrition', 'forestry']"
-22,M,2005,Coleman,"['agriculture', 'nutrition', 'forestry']"
-23,M,2005,Conrad,"['agriculture', 'nutrition', 'forestry']"
-24,M,2005,Corker,"['energy', 'naturalresources']"
-25,M,2005,Cornyn,['armedservices']
-26,M,2005,Craig,['appropriations']
-27,M,2005,Crapo,"['agriculture', 'nutrition', 'forestry']"
-28,M,2005,Demint,"['commerce', 'science', 'transportation']"
-29,M,2005,Dodd,"['banking', 'housing', 'urbanaffairs']"
-30,W,2005,Dole,['armedservices']
-31,M,2005,Domenici,['appropriations']
-32,M,2005,Dorgan,['appropriations']
-33,M,2005,Durbin,['appropriations']
-34,M,2005,Ensign,['armedservices']
-35,M,2005,Enzi,"['banking', 'housing', 'urbanaffairs']"
-36,M,2005,Feingold,['budget']
-37,W,2005,Feinstein,['appropriations']
-38,M,2005,Graham,"['agriculture', 'nutrition', 'forestry']"
-39,M,2005,Grassley,"['agriculture', 'nutrition', 'forestry']"
-40,M,2005,Gregg,['appropriations']
-41,M,2005,Hagel,"['banking', 'housing', 'urbanaffairs']"
-42,M,2005,Harkin,"['agriculture', 'nutrition', 'forestry']"
-43,M,2005,Hatch,['finance']
-44,W,2005,Hutchison,['appropriations']
-45,M,2005,Inhofe,['armedservices']
-46,M,2005,Inouye,['appropriations']
-47,M,2005,Isakson,"['environment', 'publicworks']"
-48,M,2005,Johnson,['appropriations']
-49,M,2005,Kennedy,['armedservices']
-50,M,2005,Kerry,"['commerce', 'science', 'transportation']"
-51,M,2005,Kohl,['appropriations']
-52,M,2005,Kyl,['finance']
-53,M,2005,Lautenberg,['appropriations']
-54,M,2005,Leahy,"['agriculture', 'nutrition', 'forestry']"
-55,M,2005,Levin,['armedservices']
-56,M,2005,Lieberman,['armedservices']
-57,W,2005,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-58,M,2005,Lott,"['commerce', 'science', 'transportation']"
-59,M,2005,Lugar,"['agriculture', 'nutrition', 'forestry']"
-60,M,2005,Martinez,['armedservices']
-61,M,2005,Mccain,['armedservices']
-62,W,2005,Mccaskill,['armedservices']
-63,M,2005,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-64,M,2005,Menendez,"['banking', 'housing', 'urbanaffairs']"
-65,W,2005,Murray,['appropriations']
-66,M,2005,Nelson,['armedservices']
-67,M,2005,Nelson,"['agriculture', 'nutrition', 'forestry']"
-68,M,2005,Obama,['foreignrelations']
-69,M,2005,Pryor,['armedservices']
-70,M,2005,Reed,['appropriations']
-71,M,2005,Reid,"['rules', 'nutrition', 'forestry']"
-72,M,2005,Rockefeller,"['commerce', 'science', 'transportation']"
-73,M,2005,Salazar,"['agriculture', 'nutrition', 'forestry']"
-74,M,2005,Sanders,['budget']
-75,M,2005,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2005,Sessions,['armedservices']
-77,M,2005,Shelby,['appropriations']
-78,M,2005,Smith,"['commerce', 'science', 'transportation']"
-79,M,2005,Specter,['appropriations']
-80,M,2005,Stevens,['appropriations']
-81,M,2005,Sununu,"['banking', 'housing', 'urbanaffairs']"
-82,M,2005,Tester,"['banking', 'housing', 'urbanaffairs']"
-83,M,2005,Thomas,"['energy', 'naturalresources']"
-84,M,2005,Thune,"['agriculture', 'nutrition', 'forestry']"
-85,M,2005,Vitter,"['commerce', 'science', 'transportation']"
-86,M,2005,Voinovich,"['environment', 'publicworks']"
-87,M,2005,Warner,['armedservices']
-88,M,2005,Webb,['armedservices']
-89,M,2005,Whitehouse,['budget']
-90,M,2005,Wyden,['budget']
-0,M,2008,Akaka,['armedservices']
-1,M,2008,Alexander,['appropriations']
-2,M,2008,Barrasso,"['energy', 'naturalresources']"
-3,M,2008,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2008,Bayh,['armedservices']
-5,M,2008,Begich,['armedservices']
-6,M,2008,Bennet,"['agriculture', 'nutrition', 'forestry']"
-7,M,2008,Bennett,['appropriations']
-8,M,2008,Bingaman,"['energy', 'naturalresources']"
-9,M,2008,Bond,['appropriations']
-10,W,2008,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2008,Brown,"['agriculture', 'nutrition', 'forestry']"
-12,M,2008,Brownback,['appropriations']
-13,M,2008,Bunning,"['banking', 'housing', 'urbanaffairs']"
-14,M,2008,Burr,['armedservices']
-15,M,2008,Burris,['armedservices']
-16,M,2008,Byrd,['appropriations']
-17,M,2008,Cardin,['budget']
-18,M,2008,Carper,"['environment', 'publicworks']"
-19,M,2008,Casey,"['agriculture', 'nutrition', 'forestry']"
-20,M,2008,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-21,M,2008,Coburn,"['health', 'education', 'labor', 'pensions']"
-22,M,2008,Cochran,"['agriculture', 'nutrition', 'forestry']"
-23,M,2008,Conrad,"['agriculture', 'nutrition', 'forestry']"
-24,M,2008,Corker,"['banking', 'housing', 'urbanaffairs']"
-25,M,2008,Cornyn,"['agriculture', 'nutrition', 'forestry']"
-26,M,2008,Crapo,"['banking', 'housing', 'urbanaffairs']"
-27,M,2008,Demint,"['banking', 'housing', 'urbanaffairs']"
-28,M,2008,Dodd,"['banking', 'housing', 'urbanaffairs']"
-29,M,2008,Dorgan,['appropriations']
-30,M,2008,Durbin,['appropriations']
-31,M,2008,Ensign,['budget']
-32,M,2008,Enzi,['budget']
-33,M,2008,Feingold,['budget']
-34,W,2008,Feinstein,['appropriations']
-35,M,2008,Franken,"['health', 'education', 'labor', 'pensions']"
-36,W,2008,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-37,M,2008,Graham,['armedservices']
-38,M,2008,Grassley,"['agriculture', 'nutrition', 'forestry']"
-39,M,2008,Gregg,['appropriations']
-40,W,2008,Hagan,['armedservices']
-41,M,2008,Harkin,"['agriculture', 'nutrition', 'forestry']"
-42,M,2008,Hatch,['finance']
-43,W,2008,Hutchison,['appropriations']
-44,M,2008,Inhofe,['armedservices']
-45,M,2008,Inouye,['appropriations']
-46,M,2008,Isakson,"['commerce', 'science', 'transportation']"
-47,M,2008,Johanns,"['agriculture', 'nutrition', 'forestry']"
-48,M,2008,Johnson,['appropriations']
-49,M,2008,Kaufman,['foreignrelations']
-50,M,2008,Kerry,"['commerce', 'science', 'transportation']"
-51,M,2008,Kirk,['armedservices']
-52,M,2008,Kohl,['appropriations']
-53,M,2008,Kyl,['finance']
-54,M,2008,Lautenberg,['appropriations']
-55,M,2008,Leahy,"['agriculture', 'nutrition', 'forestry']"
-56,M,2008,Lemieux,['armedservices']
-57,M,2008,Levin,['armedservices']
-58,M,2008,Lieberman,['armedservices']
-59,W,2008,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-60,M,2008,Lugar,"['agriculture', 'nutrition', 'forestry']"
-61,M,2008,Mccain,['armedservices']
-62,W,2008,Mccaskill,['armedservices']
-63,M,2008,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-64,M,2008,Menendez,"['banking', 'housing', 'urbanaffairs']"
-65,M,2008,Merkley,"['banking', 'housing', 'urbanaffairs']"
-66,W,2008,Murray,['appropriations']
-67,M,2008,Nelson,"['agriculture', 'nutrition', 'forestry']"
-68,M,2008,Nelson,['armedservices']
-69,M,2008,Pryor,['appropriations']
-70,M,2008,Reed,['appropriations']
-71,M,2008,Risch,"['energy', 'naturalresources']"
-72,M,2008,Roberts,"['agriculture', 'nutrition', 'forestry']"
-73,M,2008,Rockefeller,"['commerce', 'science', 'transportation']"
-74,M,2008,Sanders,['budget']
-75,M,2008,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2008,Sessions,['armedservices']
-77,W,2008,Shaheen,"['energy', 'naturalresources']"
-78,M,2008,Shelby,['appropriations']
-79,M,2008,Specter,['appropriations']
-80,M,2008,Tester,['appropriations']
-81,M,2008,Thune,"['agriculture', 'nutrition', 'forestry']"
-82,M,2008,Udall,['armedservices']
-83,M,2008,Udall,"['commerce', 'science', 'transportation']"
-84,M,2008,Vitter,['armedservices']
-85,M,2008,Voinovich,['appropriations']
-86,M,2008,Warner,"['banking', 'housing', 'urbanaffairs']"
-87,M,2008,Webb,['armedservices']
-88,M,2008,Whitehouse,['budget']
-89,M,2008,Wicker,['armedservices']
-90,M,2008,Wyden,['budget']
-0,M,2008,Akaka,['armedservices']
-1,M,2008,Alexander,['appropriations']
-2,M,2008,Barrasso,"['energy', 'naturalresources']"
-3,M,2008,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2008,Bayh,['armedservices']
-5,M,2008,Begich,['armedservices']
-6,M,2008,Bennet,"['agriculture', 'nutrition', 'forestry']"
-7,M,2008,Bennett,['appropriations']
-8,M,2008,Bingaman,"['energy', 'naturalresources']"
-9,M,2008,Bond,['appropriations']
-10,W,2008,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2008,Brown,"['agriculture', 'nutrition', 'forestry']"
-12,M,2008,Brownback,['appropriations']
-13,M,2008,Bunning,"['banking', 'housing', 'urbanaffairs']"
-14,M,2008,Burr,['armedservices']
-15,M,2008,Burris,['armedservices']
-16,M,2008,Byrd,['appropriations']
-17,M,2008,Cardin,['budget']
-18,M,2008,Carper,"['environment', 'publicworks']"
-19,M,2008,Casey,"['agriculture', 'nutrition', 'forestry']"
-20,M,2008,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-21,M,2008,Coburn,"['health', 'education', 'labor', 'pensions']"
-22,M,2008,Cochran,"['agriculture', 'nutrition', 'forestry']"
-23,M,2008,Conrad,"['agriculture', 'nutrition', 'forestry']"
-24,M,2008,Corker,"['banking', 'housing', 'urbanaffairs']"
-25,M,2008,Cornyn,"['agriculture', 'nutrition', 'forestry']"
-26,M,2008,Crapo,"['banking', 'housing', 'urbanaffairs']"
-27,M,2008,Demint,"['banking', 'housing', 'urbanaffairs']"
-28,M,2008,Dodd,"['banking', 'housing', 'urbanaffairs']"
-29,M,2008,Dorgan,['appropriations']
-30,M,2008,Durbin,['appropriations']
-31,M,2008,Ensign,['budget']
-32,M,2008,Enzi,['budget']
-33,M,2008,Feingold,['budget']
-34,W,2008,Feinstein,['appropriations']
-35,M,2008,Franken,"['health', 'education', 'labor', 'pensions']"
-36,W,2008,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-37,M,2008,Graham,['armedservices']
-38,M,2008,Grassley,"['agriculture', 'nutrition', 'forestry']"
-39,M,2008,Gregg,['appropriations']
-40,W,2008,Hagan,['armedservices']
-41,M,2008,Harkin,"['agriculture', 'nutrition', 'forestry']"
-42,M,2008,Hatch,['finance']
-43,W,2008,Hutchison,['appropriations']
-44,M,2008,Inhofe,['armedservices']
-45,M,2008,Inouye,['appropriations']
-46,M,2008,Isakson,"['commerce', 'science', 'transportation']"
-47,M,2008,Johanns,"['agriculture', 'nutrition', 'forestry']"
-48,M,2008,Johnson,['appropriations']
-49,M,2008,Kaufman,['foreignrelations']
-50,M,2008,Kerry,"['commerce', 'science', 'transportation']"
-51,M,2008,Kirk,['armedservices']
-52,M,2008,Kohl,['appropriations']
-53,M,2008,Kyl,['finance']
-54,M,2008,Lautenberg,['appropriations']
-55,M,2008,Leahy,"['agriculture', 'nutrition', 'forestry']"
-56,M,2008,Lemieux,['armedservices']
-57,M,2008,Levin,['armedservices']
-58,M,2008,Lieberman,['armedservices']
-59,W,2008,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-60,M,2008,Lugar,"['agriculture', 'nutrition', 'forestry']"
-61,M,2008,Mccain,['armedservices']
-62,W,2008,Mccaskill,['armedservices']
-63,M,2008,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-64,M,2008,Menendez,"['banking', 'housing', 'urbanaffairs']"
-65,M,2008,Merkley,"['banking', 'housing', 'urbanaffairs']"
-66,W,2008,Murray,['appropriations']
-67,M,2008,Nelson,"['agriculture', 'nutrition', 'forestry']"
-68,M,2008,Nelson,['armedservices']
-69,M,2008,Pryor,['appropriations']
-70,M,2008,Reed,['appropriations']
-71,M,2008,Risch,"['energy', 'naturalresources']"
-72,M,2008,Roberts,"['agriculture', 'nutrition', 'forestry']"
-73,M,2008,Rockefeller,"['commerce', 'science', 'transportation']"
-74,M,2008,Sanders,['budget']
-75,M,2008,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2008,Sessions,['armedservices']
-77,W,2008,Shaheen,"['energy', 'naturalresources']"
-78,M,2008,Shelby,['appropriations']
-79,M,2008,Specter,['appropriations']
-80,M,2008,Tester,['appropriations']
-81,M,2008,Thune,"['agriculture', 'nutrition', 'forestry']"
-82,M,2008,Udall,['armedservices']
-83,M,2008,Udall,"['commerce', 'science', 'transportation']"
-84,M,2008,Vitter,['armedservices']
-85,M,2008,Voinovich,['appropriations']
-86,M,2008,Warner,"['banking', 'housing', 'urbanaffairs']"
-87,M,2008,Webb,['armedservices']
-88,M,2008,Whitehouse,['budget']
-89,M,2008,Wicker,['armedservices']
-90,M,2008,Wyden,['budget']
-0,M,2010,Akaka,['armedservices']
-1,M,2010,Alexander,['appropriations']
-2,M,2010,Barrasso,"['energy', 'naturalresources']"
-3,M,2010,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2010,Bayh,['armedservices']
-5,M,2010,Begich,['armedservices']
-6,M,2010,Bennet,"['agriculture', 'nutrition', 'forestry']"
-7,M,2010,Bennett,['appropriations']
-8,M,2010,Bingaman,['armedservices']
-9,M,2010,Bond,['appropriations']
-10,W,2010,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2010,"Brown,",['armedservices']
-12,M,2010,"Brown,","['agriculture', 'nutrition', 'forestry']"
-13,M,2010,Brownback,['appropriations']
-14,M,2010,Bunning,"['banking', 'housing', 'urbanaffairs']"
-15,M,2010,Burr,['armedservices']
-16,M,2010,Burris,['armedservices']
-17,M,2010,Byrd,['appropriations']
-18,M,2010,Cardin,['budget']
-19,M,2010,Carper,"['environment', 'publicworks']"
-20,M,2010,Casey,"['agriculture', 'nutrition', 'forestry']"
-21,M,2010,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-22,M,2010,Coburn,"['health', 'education', 'labor', 'pensions']"
-23,M,2010,Cochran,"['agriculture', 'nutrition', 'forestry']"
-24,M,2010,Conrad,"['agriculture', 'nutrition', 'forestry']"
-25,M,2010,Corker,"['banking', 'housing', 'urbanaffairs']"
-26,M,2010,Cornyn,"['agriculture', 'nutrition', 'forestry']"
-27,M,2010,Crapo,"['banking', 'housing', 'urbanaffairs']"
-28,M,2010,Demint,"['banking', 'housing', 'urbanaffairs']"
-29,M,2010,Dodd,"['banking', 'housing', 'urbanaffairs']"
-30,M,2010,Dorgan,['appropriations']
-31,M,2010,Durbin,['appropriations']
-32,M,2010,Ensign,['budget']
-33,M,2010,Enzi,['budget']
-34,M,2010,Feingold,['budget']
-35,W,2010,Feinstein,['appropriations']
-36,M,2010,Franken,"['health', 'education', 'labor', 'pensions']"
-37,W,2010,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-38,M,2010,Graham,['armedservices']
-39,M,2010,Grassley,"['agriculture', 'nutrition', 'forestry']"
-40,M,2010,Gregg,['appropriations']
-41,W,2010,Hagan,['armedservices']
-42,M,2010,Harkin,"['agriculture', 'nutrition', 'forestry']"
-43,M,2010,Hatch,['finance']
-44,W,2010,Hutchison,['appropriations']
-45,M,2010,Inhofe,['armedservices']
-46,M,2010,Inouye,['appropriations']
-47,M,2010,Isakson,"['commerce', 'science', 'transportation']"
-48,M,2010,Johanns,"['agriculture', 'nutrition', 'forestry']"
-49,M,2010,Johnson,['appropriations']
-50,M,2010,Kaufman,['armedservices']
-51,M,2010,Kerry,"['commerce', 'science', 'transportation']"
-52,M,2010,Kohl,['appropriations']
-53,M,2010,Kyl,['finance']
-54,M,2010,Lautenberg,['appropriations']
-55,M,2010,Leahy,"['agriculture', 'nutrition', 'forestry']"
-56,M,2010,Lemieux,['armedservices']
-57,M,2010,Levin,['armedservices']
-58,M,2010,Lieberman,['armedservices']
-59,W,2010,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-60,M,2010,Lugar,"['agriculture', 'nutrition', 'forestry']"
-61,M,2010,Mccain,['armedservices']
-62,W,2010,Mccaskill,['armedservices']
-63,M,2010,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-64,M,2010,Menendez,"['banking', 'housing', 'urbanaffairs']"
-65,M,2010,Merkley,"['banking', 'housing', 'urbanaffairs']"
-66,W,2010,Murray,['appropriations']
-67,M,2010,Nelson,"['agriculture', 'nutrition', 'forestry']"
-68,M,2010,Nelson,['armedservices']
-69,M,2010,Pryor,['appropriations']
-70,M,2010,Reed,['appropriations']
-71,M,2010,Risch,"['energy', 'naturalresources']"
-72,M,2010,Roberts,"['agriculture', 'nutrition', 'forestry']"
-73,M,2010,Rockefeller,"['commerce', 'science', 'transportation']"
-74,M,2010,Sanders,['budget']
-75,M,2010,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2010,Sessions,['armedservices']
-77,W,2010,Shaheen,"['energy', 'naturalresources']"
-78,M,2010,Shelby,['appropriations']
-79,M,2010,Specter,['appropriations']
-80,M,2010,Tester,['appropriations']
-81,M,2010,Thune,"['agriculture', 'nutrition', 'forestry']"
-82,M,2010,Udall,['armedservices']
-83,M,2010,Udall,"['commerce', 'science', 'transportation']"
-84,M,2010,Vitter,['armedservices']
-85,M,2010,Voinovich,['appropriations']
-86,M,2010,Warner,"['banking', 'housing', 'urbanaffairs']"
-87,M,2010,Webb,['armedservices']
-88,M,2010,Whitehouse,['budget']
-89,M,2010,Wicker,['armedservices']
-90,M,2010,Wyden,['budget']
-0,M,2010,Akaka,['armedservices']
-1,M,2010,Alexander,['appropriations']
-2,M,2010,Barrasso,"['energy', 'naturalresources']"
-3,M,2010,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2010,Bayh,['armedservices']
-5,M,2010,Begich,['armedservices']
-6,M,2010,Bennet,"['agriculture', 'nutrition', 'forestry']"
-7,M,2010,Bennett,['appropriations']
-8,M,2010,Bingaman,['armedservices']
-9,M,2010,Bond,['appropriations']
-10,W,2010,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2010,"Brown,",['armedservices']
-12,M,2010,"Brown,","['agriculture', 'nutrition', 'forestry']"
-13,M,2010,Brownback,['appropriations']
-14,M,2010,Bunning,"['banking', 'housing', 'urbanaffairs']"
-15,M,2010,Burr,['armedservices']
-16,M,2010,Burris,['armedservices']
-17,M,2010,Cardin,['budget']
-18,M,2010,Carper,"['environment', 'publicworks']"
-19,M,2010,Casey,"['agriculture', 'nutrition', 'forestry']"
-20,M,2010,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-21,M,2010,Coburn,"['health', 'education', 'labor', 'pensions']"
-22,M,2010,Cochran,"['agriculture', 'nutrition', 'forestry']"
-23,M,2010,Conrad,"['agriculture', 'nutrition', 'forestry']"
-24,M,2010,Corker,"['banking', 'housing', 'urbanaffairs']"
-25,M,2010,Cornyn,"['agriculture', 'nutrition', 'forestry']"
-26,M,2010,Crapo,"['banking', 'housing', 'urbanaffairs']"
-27,M,2010,Demint,"['banking', 'housing', 'urbanaffairs']"
-28,M,2010,Dodd,"['banking', 'housing', 'urbanaffairs']"
-29,M,2010,Dorgan,['appropriations']
-30,M,2010,Durbin,['appropriations']
-31,M,2010,Ensign,['budget']
-32,M,2010,Enzi,['budget']
-33,M,2010,Feingold,['budget']
-34,W,2010,Feinstein,['appropriations']
-35,M,2010,Franken,"['health', 'education', 'labor', 'pensions']"
-36,W,2010,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-37,M,2010,Goodwin,['armedservices']
-38,M,2010,Graham,['armedservices']
-39,M,2010,Grassley,"['agriculture', 'nutrition', 'forestry']"
-40,M,2010,Gregg,['appropriations']
-41,W,2010,Hagan,['armedservices']
-42,M,2010,Harkin,"['agriculture', 'nutrition', 'forestry']"
-43,M,2010,Hatch,['finance']
-44,W,2010,Hutchison,['appropriations']
-45,M,2010,Inhofe,['armedservices']
-46,M,2010,Inouye,['appropriations']
-47,M,2010,Isakson,"['commerce', 'science', 'transportation']"
-48,M,2010,Johanns,"['agriculture', 'nutrition', 'forestry']"
-49,M,2010,Johnson,['appropriations']
-50,M,2010,Kaufman,['armedservices']
-51,M,2010,Kerry,"['commerce', 'science', 'transportation']"
-52,M,2010,Kohl,['appropriations']
-53,M,2010,Kyl,['finance']
-54,M,2010,Lautenberg,['appropriations']
-55,M,2010,Leahy,"['agriculture', 'nutrition', 'forestry']"
-56,M,2010,Lemieux,['armedservices']
-57,M,2010,Levin,['armedservices']
-58,M,2010,Lieberman,['armedservices']
-59,W,2010,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-60,M,2010,Lugar,"['agriculture', 'nutrition', 'forestry']"
-61,M,2010,Mccain,['armedservices']
-62,W,2010,Mccaskill,['armedservices']
-63,M,2010,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-64,M,2010,Menendez,"['banking', 'housing', 'urbanaffairs']"
-65,M,2010,Merkley,"['banking', 'housing', 'urbanaffairs']"
-66,W,2010,Murray,['appropriations']
-67,M,2010,Nelson,"['agriculture', 'nutrition', 'forestry']"
-68,M,2010,Nelson,['armedservices']
-69,M,2010,Pryor,['appropriations']
-70,M,2010,Reed,['appropriations']
-71,M,2010,Risch,"['energy', 'naturalresources']"
-72,M,2010,Roberts,"['agriculture', 'nutrition', 'forestry']"
-73,M,2010,Rockefeller,"['commerce', 'science', 'transportation']"
-74,M,2010,Sanders,['budget']
-75,M,2010,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2010,Sessions,['armedservices']
-77,W,2010,Shaheen,"['energy', 'naturalresources']"
-78,M,2010,Shelby,['appropriations']
-79,M,2010,Specter,['appropriations']
-80,M,2010,Tester,['appropriations']
-81,M,2010,Thune,"['agriculture', 'nutrition', 'forestry']"
-82,M,2010,Udall,['armedservices']
-83,M,2010,Udall,"['commerce', 'science', 'transportation']"
-84,M,2010,Vitter,['armedservices']
-85,M,2010,Voinovich,['appropriations']
-86,M,2010,Warner,"['banking', 'housing', 'urbanaffairs']"
-87,M,2010,Webb,['armedservices']
-88,M,2010,Whitehouse,['budget']
-89,M,2010,Wicker,['armedservices']
-90,M,2010,Wyden,['budget']
-0,M,2010,Akaka,['armedservices']
-1,M,2010,Alexander,['appropriations']
-2,M,2010,Barrasso,"['energy', 'naturalresources']"
-3,M,2010,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2010,Bayh,['armedservices']
-5,M,2010,Begich,['armedservices']
-6,M,2010,Bennet,"['agriculture', 'nutrition', 'forestry']"
-7,M,2010,Bennett,['appropriations']
-8,M,2010,Bingaman,['armedservices']
-9,M,2010,Bond,['appropriations']
-10,W,2010,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2010,"Brown,",['armedservices']
-12,M,2010,"Brown,","['agriculture', 'nutrition', 'forestry']"
-13,M,2010,Brownback,['appropriations']
-14,M,2010,Bunning,"['banking', 'housing', 'urbanaffairs']"
-15,M,2010,Burr,['armedservices']
-16,M,2010,Cardin,['budget']
-17,M,2010,Carper,"['environment', 'publicworks']"
-18,M,2010,Casey,"['agriculture', 'nutrition', 'forestry']"
-19,M,2010,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-20,M,2010,Coburn,"['health', 'education', 'labor', 'pensions']"
-21,M,2010,Cochran,"['agriculture', 'nutrition', 'forestry']"
-22,M,2010,Conrad,"['agriculture', 'nutrition', 'forestry']"
-23,M,2010,Coons,['armedservices']
-24,M,2010,Corker,"['banking', 'housing', 'urbanaffairs']"
-25,M,2010,Cornyn,"['agriculture', 'nutrition', 'forestry']"
-26,M,2010,Crapo,"['banking', 'housing', 'urbanaffairs']"
-27,M,2010,Demint,"['banking', 'housing', 'urbanaffairs']"
-28,M,2010,Dodd,"['banking', 'housing', 'urbanaffairs']"
-29,M,2010,Dorgan,['appropriations']
-30,M,2010,Durbin,['appropriations']
-31,M,2010,Ensign,['budget']
-32,M,2010,Enzi,['budget']
-33,M,2010,Feingold,['budget']
-34,W,2010,Feinstein,['appropriations']
-35,M,2010,Franken,"['health', 'education', 'labor', 'pensions']"
-36,W,2010,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-37,M,2010,Graham,['armedservices']
-38,M,2010,Grassley,"['agriculture', 'nutrition', 'forestry']"
-39,M,2010,Gregg,['appropriations']
-40,W,2010,Hagan,['armedservices']
-41,M,2010,Harkin,"['agriculture', 'nutrition', 'forestry']"
-42,M,2010,Hatch,['finance']
-43,W,2010,Hutchison,['appropriations']
-44,M,2010,Inhofe,['armedservices']
-45,M,2010,Inouye,['appropriations']
-46,M,2010,Isakson,"['commerce', 'science', 'transportation']"
-47,M,2010,Johanns,"['agriculture', 'nutrition', 'forestry']"
-48,M,2010,Johnson,['appropriations']
-49,M,2010,Kerry,"['commerce', 'science', 'transportation']"
-50,M,2010,Kirk,['armedservices']
-51,M,2010,Kohl,['appropriations']
-52,M,2010,Kyl,['finance']
-53,M,2010,Lautenberg,['appropriations']
-54,M,2010,Leahy,"['agriculture', 'nutrition', 'forestry']"
-55,M,2010,Lemieux,['armedservices']
-56,M,2010,Levin,['armedservices']
-57,M,2010,Lieberman,['armedservices']
-58,W,2010,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-59,M,2010,Lugar,"['agriculture', 'nutrition', 'forestry']"
-60,M,2010,Manchin,['armedservices']
-61,M,2010,Mccain,['armedservices']
-62,W,2010,Mccaskill,['armedservices']
-63,M,2010,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-64,M,2010,Menendez,"['banking', 'housing', 'urbanaffairs']"
-65,M,2010,Merkley,"['banking', 'housing', 'urbanaffairs']"
-66,W,2010,Murray,['appropriations']
-67,M,2010,Nelson,"['agriculture', 'nutrition', 'forestry']"
-68,M,2010,Nelson,['armedservices']
-69,M,2010,Pryor,['appropriations']
-70,M,2010,Reed,['appropriations']
-71,M,2010,Risch,"['energy', 'naturalresources']"
-72,M,2010,Roberts,"['agriculture', 'nutrition', 'forestry']"
-73,M,2010,Rockefeller,"['commerce', 'science', 'transportation']"
-74,M,2010,Sanders,['budget']
-75,M,2010,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2010,Sessions,['armedservices']
-77,W,2010,Shaheen,"['energy', 'naturalresources']"
-78,M,2010,Shelby,['appropriations']
-79,M,2010,Specter,['appropriations']
-80,M,2010,Tester,['appropriations']
-81,M,2010,Thune,"['agriculture', 'nutrition', 'forestry']"
-82,M,2010,Udall,['armedservices']
-83,M,2010,Udall,"['commerce', 'science', 'transportation']"
-84,M,2010,Vitter,['armedservices']
-85,M,2010,Voinovich,['appropriations']
-86,M,2010,Warner,"['banking', 'housing', 'urbanaffairs']"
-87,M,2010,Webb,['armedservices']
-88,M,2010,Whitehouse,['budget']
-89,M,2010,Wicker,['armedservices']
-90,M,2010,Wyden,['budget']
-0,M,2008,Akaka,['armedservices']
-1,M,2008,Alexander,['appropriations']
-2,M,2008,Barrasso,"['energy', 'naturalresources']"
-3,M,2008,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2008,Bayh,['armedservices']
-5,M,2008,Begich,['armedservices']
-6,M,2008,Bennet,"['agriculture', 'nutrition', 'forestry']"
-7,M,2008,Bennett,['appropriations']
-8,M,2008,Bingaman,"['energy', 'naturalresources']"
-9,M,2008,Bond,['appropriations']
-10,W,2008,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2008,Brown,"['agriculture', 'nutrition', 'forestry']"
-12,M,2008,Brownback,['appropriations']
-13,M,2008,Bunning,"['banking', 'housing', 'urbanaffairs']"
-14,M,2008,Burr,['armedservices']
-15,M,2008,Burris,['armedservices']
-16,M,2008,Byrd,['appropriations']
-17,M,2008,Cardin,['budget']
-18,M,2008,Carper,"['environment', 'publicworks']"
-19,M,2008,Casey,"['agriculture', 'nutrition', 'forestry']"
-20,M,2008,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-21,M,2008,Coburn,"['health', 'education', 'labor', 'pensions']"
-22,M,2008,Cochran,"['agriculture', 'nutrition', 'forestry']"
-23,M,2008,Conrad,"['agriculture', 'nutrition', 'forestry']"
-24,M,2008,Corker,"['banking', 'housing', 'urbanaffairs']"
-25,M,2008,Cornyn,['budget']
-26,M,2008,Crapo,"['banking', 'housing', 'urbanaffairs']"
-27,M,2008,Demint,"['banking', 'housing', 'urbanaffairs']"
-28,M,2008,Dodd,"['banking', 'housing', 'urbanaffairs']"
-29,M,2008,Dorgan,['appropriations']
-30,M,2008,Durbin,['appropriations']
-31,M,2008,Ensign,['budget']
-32,M,2008,Enzi,['budget']
-33,M,2008,Feingold,['budget']
-34,W,2008,Feinstein,['appropriations']
-35,W,2008,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-36,M,2008,Graham,['armedservices']
-37,M,2008,Grassley,"['agriculture', 'nutrition', 'forestry']"
-38,M,2008,Gregg,['appropriations']
-39,W,2008,Hagan,['armedservices']
-40,M,2008,Harkin,"['agriculture', 'nutrition', 'forestry']"
-41,M,2008,Hatch,['finance']
-42,W,2008,Hutchison,['appropriations']
-43,M,2008,Inhofe,['armedservices']
-44,M,2008,Inouye,['appropriations']
-45,M,2008,Isakson,"['commerce', 'science', 'transportation']"
-46,M,2008,Johanns,"['agriculture', 'nutrition', 'forestry']"
-47,M,2008,Johnson,['appropriations']
-48,M,2008,Kaufman,['foreignrelations']
-49,M,2008,Kennedy,['armedservices']
-50,M,2008,Kerry,"['commerce', 'science', 'transportation']"
-51,M,2008,Kohl,['appropriations']
-52,M,2008,Kyl,['finance']
-53,M,2008,Lautenberg,['appropriations']
-54,M,2008,Leahy,"['agriculture', 'nutrition', 'forestry']"
-55,M,2008,Levin,['armedservices']
-56,M,2008,Lieberman,['armedservices']
-57,W,2008,Lincoln,"['agriculture', 'nutrition', 'forestry']"
-58,M,2008,Lugar,"['agriculture', 'nutrition', 'forestry']"
-59,M,2008,Martinez,['armedservices']
-60,M,2008,Mccain,['armedservices']
-61,W,2008,Mccaskill,['armedservices']
-62,M,2008,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-63,M,2008,Menendez,"['banking', 'housing', 'urbanaffairs']"
-64,M,2008,Merkley,"['banking', 'housing', 'urbanaffairs']"
-65,W,2008,Murray,['appropriations']
-66,M,2008,Nelson,['armedservices']
-67,M,2008,Nelson,"['agriculture', 'nutrition', 'forestry']"
-68,M,2008,Pryor,['appropriations']
-69,M,2008,Reed,['appropriations']
-70,M,2008,Reid,['jointcongressionalcommitteeoninaugural']
-71,M,2008,Risch,"['energy', 'naturalresources']"
-72,M,2008,Roberts,"['agriculture', 'nutrition', 'forestry']"
-73,M,2008,Rockefeller,"['commerce', 'science', 'transportation']"
-74,M,2008,Sanders,['budget']
-75,M,2008,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2008,Sessions,['armedservices']
-77,W,2008,Shaheen,"['energy', 'naturalresources']"
-78,M,2008,Shelby,['appropriations']
-79,M,2008,Specter,['appropriations']
-80,M,2008,Tester,['appropriations']
-81,M,2008,Thune,"['agriculture', 'nutrition', 'forestry']"
-82,M,2008,Udall,['armedservices']
-83,M,2008,Udall,"['commerce', 'science', 'transportation']"
-84,M,2008,Vitter,['armedservices']
-85,M,2008,Voinovich,['appropriations']
-86,M,2008,Warner,"['banking', 'housing', 'urbanaffairs']"
-87,M,2008,Webb,['armedservices']
-88,M,2008,Whitehouse,['budget']
-89,M,2008,Wicker,['armedservices']
-90,M,2008,Wyden,['budget']
-0,M,2014,Akaka,['armedservices']
-1,M,2014,Alexander,['appropriations']
-2,M,2014,Barrasso,"['energy', 'naturalresources']"
-3,M,2014,Baucus,"['agriculture', 'nutrition', 'forestry']"
-4,M,2014,Begich,['armedservices']
-5,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-6,M,2014,Bingaman,"['energy', 'naturalresources']"
-7,M,2014,Blumenthal,['armedservices']
-8,M,2014,Blunt,['appropriations']
-9,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-10,W,2014,Boxer,"['commerce', 'science', 'transportation']"
-11,M,2014,Brown,['armedservices']
-12,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-13,M,2014,Burr,['finance']
-14,M,2014,Cardin,['budget']
-15,M,2014,Carper,"['environment', 'publicworks']"
-16,M,2014,Casey,"['agriculture', 'nutrition', 'forestry']"
-17,M,2014,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-18,M,2014,Coats,['appropriations']
-19,M,2014,Coburn,['finance']
-20,M,2014,Cochran,"['agriculture', 'nutrition', 'forestry']"
-21,M,2014,Conrad,"['agriculture', 'nutrition', 'forestry']"
-22,M,2014,Coons,['budget']
-23,M,2014,Corker,"['banking', 'housing', 'urbanaffairs']"
-24,M,2014,Cornyn,['armedservices']
-25,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-26,M,2014,Demint,"['banking', 'housing', 'urbanaffairs']"
-27,M,2014,Durbin,['appropriations']
-28,M,2014,Enzi,['budget']
-29,W,2014,Feinstein,['appropriations']
-30,M,2014,Franken,"['energy', 'naturalresources']"
-31,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-32,M,2014,Graham,['appropriations']
-33,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-34,W,2014,Hagan,['armedservices']
-35,M,2014,Harkin,"['agriculture', 'nutrition', 'forestry']"
-36,M,2014,Hatch,['finance']
-37,M,2014,Heller,"['commerce', 'science', 'transportation']"
-38,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-39,W,2014,Hutchison,['appropriations']
-40,M,2014,Inhofe,['armedservices']
-41,M,2014,Inouye,['appropriations']
-42,M,2014,Isakson,"['commerce', 'science', 'transportation']"
-43,M,2014,Johanns,"['agriculture', 'nutrition', 'forestry']"
-44,M,2014,Johnson,['appropriations']
-45,M,2014,Johnson,['appropriations']
-46,M,2014,Kerry,"['commerce', 'science', 'transportation']"
-47,M,2014,Kirk,['appropriations']
-48,M,2014,Kohl,['appropriations']
-49,M,2014,Kyl,['finance']
-50,M,2014,Lautenberg,['appropriations']
-51,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-52,M,2014,Lee,"['energy', 'naturalresources']"
-53,M,2014,Levin,['armedservices']
-54,M,2014,Lieberman,['armedservices']
-55,M,2014,Lugar,"['agriculture', 'nutrition', 'forestry']"
-56,M,2014,Manchin,['armedservices']
-57,M,2014,Mccain,['armedservices']
-58,W,2014,Mccaskill,['armedservices']
-59,M,2014,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-60,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-61,M,2014,Merkley,"['banking', 'housing', 'urbanaffairs']"
-62,M,2014,Moran,['appropriations']
-63,W,2014,Murray,['appropriations']
-64,M,2014,Nelson,"['agriculture', 'nutrition', 'forestry']"
-65,M,2014,Nelson,['budget']
-66,M,2014,Paul,"['energy', 'naturalresources']"
-67,M,2014,Portman,['armedservices']
-68,M,2014,Pryor,['appropriations']
-69,M,2014,Reed,['appropriations']
-70,M,2014,Risch,"['energy', 'naturalresources']"
-71,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-72,M,2014,Rockefeller,"['commerce', 'science', 'transportation']"
-73,M,2014,Rubio,"['commerce', 'science', 'transportation']"
-74,M,2014,Sanders,['budget']
-75,M,2014,Schumer,"['banking', 'housing', 'urbanaffairs']"
-76,M,2014,Sessions,['armedservices']
-77,W,2014,Shaheen,['armedservices']
-78,M,2014,Shelby,['appropriations']
-79,M,2014,Tester,['appropriations']
-80,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-81,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-82,M,2014,Udall,['armedservices']
-83,M,2014,Udall,"['commerce', 'science', 'transportation']"
-84,M,2014,Vitter,['armedservices']
-85,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-86,M,2014,Webb,['armedservices']
-87,M,2014,Whitehouse,['budget']
-88,M,2014,Wicker,['armedservices']
-89,M,2014,Wyden,['budget']
-0,M,2014,Alexander,['appropriations']
-1,M,2014,Barrasso,"['energy', 'naturalresources']"
-2,M,2014,Baucus,"['agriculture', 'nutrition', 'forestry']"
-3,M,2014,Begich,['appropriations']
-4,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-5,M,2014,Blumenthal,['armedservices']
-6,M,2014,Blunt,['appropriations']
-7,M,2014,Booker,"['commerce', 'science', 'transportation']"
-8,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-9,W,2014,Boxer,"['commerce', 'science', 'transportation']"
-10,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-11,M,2014,Burr,['finance']
-12,M,2014,Cardin,"['environment', 'publicworks']"
-13,M,2014,Carper,"['environment', 'publicworks']"
-14,M,2014,Casey,"['agriculture', 'nutrition', 'forestry']"
-15,M,2014,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-16,M,2014,Coats,['appropriations']
-17,M,2014,Coburn,"['banking', 'housing', 'urbanaffairs']"
-18,M,2014,Cochran,"['agriculture', 'nutrition', 'forestry']"
-19,M,2014,Coons,['appropriations']
-20,M,2014,Corker,"['banking', 'housing', 'urbanaffairs']"
-21,M,2014,Cornyn,['finance']
-22,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-23,M,2014,Cruz,['armedservices']
-24,M,2014,Donnelly,"['agriculture', 'nutrition', 'forestry']"
-25,M,2014,Durbin,['appropriations']
-26,M,2014,Enzi,['budget']
-27,W,2014,Feinstein,['appropriations']
-28,W,2014,Fischer,['armedservices']
-29,M,2014,Flake,"['energy', 'naturalresources']"
-30,M,2014,Franken,"['energy', 'naturalresources']"
-31,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-32,M,2014,Graham,['appropriations']
-33,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-34,W,2014,Hagan,['armedservices']
-35,M,2014,Harkin,"['agriculture', 'nutrition', 'forestry']"
-36,M,2014,Hatch,['finance']
-37,M,2014,Heinrich,"['energy', 'naturalresources']"
-38,M,2014,Heller,"['banking', 'housing', 'urbanaffairs']"
-39,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-40,M,2014,Inhofe,['armedservices']
-41,M,2014,Isakson,['finance']
-42,M,2014,Johanns,"['agriculture', 'nutrition', 'forestry']"
-43,M,2014,Johnson,['budget']
-44,M,2014,Johnson,['appropriations']
-45,M,2014,Kaine,['armedservices']
-46,M,2014,King,['armedservices']
-47,M,2014,Kirk,['appropriations']
-48,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-49,M,2014,Lee,['armedservices']
-50,M,2014,Levin,['armedservices']
-51,M,2014,Manchin,['armedservices']
-52,M,2014,Markey,"['commerce', 'science', 'transportation']"
+0,M,2006,Akaka,armed services
+1,M,2006,Alexander,budget
+2,M,2006,Allard,appropriations
+3,M,2006,Allen,"commerce, science, and transportation"
+4,M,2006,Baucus,"agriculture, nutrition, and forestry"
+5,M,2006,Bayh,armed services
+6,M,2006,Bennett,appropriations
+7,M,2006,Biden,foreign relations
+8,M,2006,Bingaman,energy and natural resources
+9,M,2006,Bond,appropriations
+10,W,2006,Boxer,"commerce, science, and transportation"
+11,M,2006,Brownback,appropriations
+12,M,2006,Bunning,"banking, housing, and urban affairs"
+13,M,2006,Burns,appropriations
+14,M,2006,Burr,energy and natural resources
+15,M,2006,Byrd,appropriations
+16,M,2006,Carper,"banking, housing, and urban affairs"
+17,M,2006,Chafee,environment and public works
+18,M,2006,Chambliss,"agriculture, nutrition, and forestry"
+19,W,2006,Clinton,armed services
+20,M,2006,Coburn,homeland security and governmental affairs
+21,M,2006,Cochran,"agriculture, nutrition, and forestry"
+22,M,2006,Coleman,"agriculture, nutrition, and forestry"
+23,M,2006,Conrad,"agriculture, nutrition, and forestry"
+24,M,2006,Cornyn,armed services
+25,M,2006,Craig,appropriations
+26,M,2006,Crapo,"agriculture, nutrition, and forestry"
+27,M,2006,Dayton,"agriculture, nutrition, and forestry"
+28,M,2006,"D
+emint","commerce, science, and transportation"
+29,M,2006,"D
+ewine",appropriations
+30,M,2006,Dodd,"banking, housing, and urban affairs"
+31,W,2006,Dole,armed services
+32,M,2006,Domenici,appropriations
+33,M,2006,Dorgan,appropriations
+34,M,2006,Durbin,appropriations
+35,M,2006,Ensign,armed services
+36,M,2006,Enzi,"banking, housing, and urban affairs"
+37,M,2006,Feingold,budget
+38,W,2006,Feinstein,appropriations
+39,M,2006,Frist,finance
+40,M,2006,Graham,armed services
+41,M,2006,Grassley,"agriculture, nutrition, and forestry"
+42,M,2006,Gregg,appropriations
+43,M,2006,Hagel,"banking, housing, and urban affairs"
+44,M,2006,Harkin,"agriculture, nutrition, and forestry"
+45,M,2006,Hatch,finance
+46,W,2006,Hutchison,appropriations
+47,M,2006,Inhofe,armed services
+48,M,2006,Inouye,appropriations
+49,M,2006,Isakson,environment and public works
+50,M,2006,Jeffords,environment and public works
+51,M,2006,Johnson,appropriations
+52,M,2006,Kennedy,armed services
+53,M,2006,Kerry,"commerce, science, and transportation"
+54,M,2006,Kohl,appropriations
+55,M,2006,Kyl,finance
+56,M,2006,Lautenberg,"commerce, science, and transportation"
+57,M,2006,Leahy,"agriculture, nutrition, and forestry"
+58,M,2006,Levin,armed services
+59,M,2006,Lieberman,armed services
+60,W,2006,Lincoln,"agriculture, nutrition, and forestry"
+61,M,2006,Lott,"commerce, science, and transportation"
+62,M,2006,Lugar,"agriculture, nutrition, and forestry"
+63,M,2006,Martinez,"banking, housing, and urban affairs"
+64,M,2006,"M
+ccain",armed services
+65,M,2006,"M
+cconnell","agriculture, nutrition, and forestry"
+66,M,2006,Menendez,"banking, housing, and urban affairs"
+67,W,2006,Murray,appropriations
+68,M,2006,Nelson,armed services
+69,M,2006,Nelson,"agriculture, nutrition, and forestry"
+70,M,2006,Obama,environment and public works
+71,M,2006,Pryor,"commerce, science, and transportation"
+72,M,2006,Reed,armed services
+73,M,2006,Reid,appropriations
+74,M,2006,Rockefeller,"commerce, science, and transportation"
+75,M,2006,Salazar,"agriculture, nutrition, and forestry"
+76,M,2006,Santorum,"agriculture, nutrition, and forestry"
+77,M,2006,Sarbanes,"banking, housing, and urban affairs"
+78,M,2006,Schumer,"banking, housing, and urban affairs"
+79,M,2006,Sessions,armed services
+80,M,2006,Shelby,appropriations
+81,M,2006,Smith,"commerce, science, and transportation"
+82,M,2006,Specter,appropriations
+83,M,2006,Stevens,appropriations
+84,M,2006,Sununu,"banking, housing, and urban affairs"
+85,M,2006,Talent,"agriculture, nutrition, and forestry"
+86,M,2006,Thomas,"agriculture, nutrition, and forestry"
+87,M,2006,Thune,armed services
+88,M,2006,Vitter,"commerce, science, and transportation"
+89,M,2006,Voinovich,environment and public works
+90,M,2006,Warner,armed services
+91,M,2006,Wyden,budget
+0,M,2007,Akaka,armed services
+1,M,2007,Alexander,appropriations
+2,M,2007,Allard,appropriations
+3,M,2007,Barrasso,energy and natural resources
+4,M,2007,Baucus,"agriculture, nutrition, and forestry"
+5,M,2007,Bayh,armed services
+6,M,2007,Bennett,appropriations
+7,M,2007,Biden,foreign relations
+8,M,2007,Bingaman,energy and natural resources
+9,M,2007,Bond,appropriations
+10,W,2007,Boxer,"commerce, science, and transportation"
+11,M,2007,Brown,"agriculture, nutrition, and forestry"
+12,M,2007,Brownback,appropriations
+13,M,2007,Bunning,"banking, housing, and urban affairs"
+14,M,2007,Burr,energy and natural resources
+15,M,2007,Byrd,appropriations
+16,M,2007,Cardin,budget
+17,M,2007,Carper,"banking, housing, and urban affairs"
+18,M,2007,Casey,"agriculture, nutrition, and forestry"
+19,M,2007,Chambliss,"agriculture, nutrition, and forestry"
+20,W,2007,Clinton,armed services
+21,M,2007,Coburn,"health, education, labor, and pensions"
+22,M,2007,Cochran,"agriculture, nutrition, and forestry"
+23,M,2007,Coleman,"agriculture, nutrition, and forestry"
+24,M,2007,Conrad,"agriculture, nutrition, and forestry"
+25,M,2007,Corker,armed services
+26,M,2007,Cornyn,armed services
+27,M,2007,Craig,appropriations
+28,M,2007,Crapo,"agriculture, nutrition, and forestry"
+29,M,2007,Demint,"commerce, science, and transportation"
+30,M,2007,Dodd,"banking, housing, and urban affairs"
+31,W,2007,Dole,armed services
+32,M,2007,Domenici,appropriations
+33,M,2007,Dorgan,appropriations
+34,M,2007,Durbin,appropriations
+35,M,2007,Ensign,budget
+36,M,2007,Enzi,"banking, housing, and urban affairs"
+37,M,2007,Feingold,budget
+38,W,2007,Feinstein,appropriations
+39,M,2007,Graham,"agriculture, nutrition, and forestry"
+40,M,2007,Grassley,"agriculture, nutrition, and forestry"
+41,M,2007,Gregg,appropriations
+42,M,2007,Hagel,"banking, housing, and urban affairs"
+43,M,2007,Harkin,"agriculture, nutrition, and forestry"
+44,M,2007,Hatch,finance
+45,W,2007,Hutchison,appropriations
+46,M,2007,Inhofe,armed services
+47,M,2007,Inouye,appropriations
+48,M,2007,Isakson,environment and public works
+49,M,2007,Johnson,appropriations
+50,M,2007,Kennedy,armed services
+51,M,2007,Kerry,"commerce, science, and transportation"
+52,M,2007,Kohl,appropriations
+53,M,2007,Kyl,finance
+54,M,2007,Lautenberg,appropriations
+55,M,2007,Leahy,"agriculture, nutrition, and forestry"
+56,M,2007,Levin,armed services
+57,M,2007,Lieberman,armed services
+58,W,2007,Lincoln,"agriculture, nutrition, and forestry"
+59,M,2007,Lott,"commerce, science, and transportation"
+60,M,2007,Lugar,"agriculture, nutrition, and forestry"
+61,M,2007,Martinez,armed services
+62,M,2007,Mccain,armed services
+63,W,2007,Mccaskill,armed services
+64,M,2007,Mcconnell,"agriculture, nutrition, and forestry"
+65,M,2007,Menendez,"banking, housing, and urban affairs"
+66,W,2007,Murray,appropriations
+67,M,2007,Nelson,armed services
+68,M,2007,Nelson,"agriculture, nutrition, and forestry"
+69,M,2007,Obama,foreign relations
+70,M,2007,Pryor,armed services
+71,M,2007,Reed,appropriations
+72,M,2007,Reid,rules and administration
+73,M,2007,Rockefeller,"commerce, science, and transportation"
+74,M,2007,Salazar,"agriculture, nutrition, and forestry"
+75,M,2007,Sanders,budget
+76,M,2007,Schumer,"banking, housing, and urban affairs"
+77,M,2007,Sessions,armed services
+78,M,2007,Shelby,appropriations
+79,M,2007,Smith,"commerce, science, and transportation"
+80,M,2007,Specter,appropriations
+81,M,2007,Stevens,appropriations
+82,M,2007,Sununu,"banking, housing, and urban affairs"
+83,M,2007,Tester,"banking, housing, and urban affairs"
+84,M,2007,Thune,"agriculture, nutrition, and forestry"
+85,M,2007,Vitter,"commerce, science, and transportation"
+86,M,2007,Voinovich,environment and public works
+87,M,2007,Warner,armed services
+88,M,2007,Webb,armed services
+89,M,2007,Whitehouse,budget
+90,M,2007,Wyden,budget
+0,M,2007,Akaka,armed services
+1,M,2007,Alexander,appropriations
+2,M,2007,Allard,appropriations
+3,M,2007,Baucus,"agriculture, nutrition, and forestry"
+4,M,2007,Bayh,armed services
+5,M,2007,Bennett,appropriations
+6,M,2007,Biden,foreign relations
+7,M,2007,Bingaman,energy and natural resources
+8,M,2007,Bond,appropriations
+9,W,2007,Boxer,"commerce, science, and transportation"
+10,M,2007,Brown,"agriculture, nutrition, and forestry"
+11,M,2007,Brownback,appropriations
+12,M,2007,Bunning,"banking, housing, and urban affairs"
+13,M,2007,Burr,energy and natural resources
+14,M,2007,Byrd,appropriations
+15,M,2007,Cardin,budget
+16,M,2007,Carper,"banking, housing, and urban affairs"
+17,M,2007,Casey,"agriculture, nutrition, and forestry"
+18,M,2007,Chambliss,"agriculture, nutrition, and forestry"
+19,W,2007,Clinton,armed services
+20,M,2007,Coburn,"health, education, labor, and pensions"
+21,M,2007,Cochran,"agriculture, nutrition, and forestry"
+22,M,2007,Coleman,"agriculture, nutrition, and forestry"
+23,M,2007,Conrad,"agriculture, nutrition, and forestry"
+24,M,2007,Corker,energy and natural resources
+25,M,2007,Cornyn,armed services
+26,M,2007,Craig,appropriations
+27,M,2007,Crapo,"agriculture, nutrition, and forestry"
+28,M,2007,Demint,"commerce, science, and transportation"
+29,M,2007,Dodd,"banking, housing, and urban affairs"
+30,W,2007,Dole,armed services
+31,M,2007,Domenici,appropriations
+32,M,2007,Dorgan,appropriations
+33,M,2007,Durbin,appropriations
+34,M,2007,Ensign,armed services
+35,M,2007,Enzi,"banking, housing, and urban affairs"
+36,M,2007,Feingold,budget
+37,W,2007,Feinstein,appropriations
+38,M,2007,Graham,"agriculture, nutrition, and forestry"
+39,M,2007,Grassley,"agriculture, nutrition, and forestry"
+40,M,2007,Gregg,appropriations
+41,M,2007,Hagel,"banking, housing, and urban affairs"
+42,M,2007,Harkin,"agriculture, nutrition, and forestry"
+43,M,2007,Hatch,finance
+44,W,2007,Hutchison,appropriations
+45,M,2007,Inhofe,armed services
+46,M,2007,Inouye,appropriations
+47,M,2007,Isakson,environment and public works
+48,M,2007,Johnson,appropriations
+49,M,2007,Kennedy,armed services
+50,M,2007,Kerry,"commerce, science, and transportation"
+51,M,2007,Kohl,appropriations
+52,M,2007,Kyl,finance
+53,M,2007,Lautenberg,appropriations
+54,M,2007,Leahy,"agriculture, nutrition, and forestry"
+55,M,2007,Levin,armed services
+56,M,2007,Lieberman,armed services
+57,W,2007,Lincoln,"agriculture, nutrition, and forestry"
+58,M,2007,Lott,"commerce, science, and transportation"
+59,M,2007,Lugar,"agriculture, nutrition, and forestry"
+60,M,2007,Martinez,armed services
+61,M,2007,Mccain,armed services
+62,W,2007,Mccaskill,armed services
+63,M,2007,Mcconnell,"agriculture, nutrition, and forestry"
+64,M,2007,Menendez,"banking, housing, and urban affairs"
+65,W,2007,Murray,appropriations
+66,M,2007,Nelson,armed services
+67,M,2007,Nelson,"agriculture, nutrition, and forestry"
+68,M,2007,Obama,foreign relations
+69,M,2007,Pryor,armed services
+70,M,2007,Reed,appropriations
+71,M,2007,Reid,rules and administration
+72,M,2007,Rockefeller,"commerce, science, and transportation"
+73,M,2007,Salazar,"agriculture, nutrition, and forestry"
+74,M,2007,Sanders,budget
+75,M,2007,Schumer,"banking, housing, and urban affairs"
+76,M,2007,Sessions,armed services
+77,M,2007,Shelby,appropriations
+78,M,2007,Smith,"commerce, science, and transportation"
+79,M,2007,Specter,appropriations
+80,M,2007,Stevens,appropriations
+81,M,2007,Sununu,"banking, housing, and urban affairs"
+82,M,2007,Tester,"banking, housing, and urban affairs"
+83,M,2007,Thomas,energy and natural resources
+84,M,2007,Thune,"agriculture, nutrition, and forestry"
+85,M,2007,Vitter,"commerce, science, and transportation"
+86,M,2007,Voinovich,environment and public works
+87,M,2007,Warner,armed services
+88,M,2007,Webb,armed services
+89,M,2007,Whitehouse,budget
+90,M,2007,Wyden,budget
+0,M,2009,Akaka,armed services
+1,M,2009,Alexander,appropriations
+2,M,2009,Barrasso,energy and natural resources
+3,M,2009,Baucus,"agriculture, nutrition, and forestry"
+4,M,2009,Bayh,armed services
+5,M,2009,Begich,armed services
+6,M,2009,Bennet,"agriculture, nutrition, and forestry"
+7,M,2009,Bennett,appropriations
+8,M,2009,Bingaman,energy and natural resources
+9,M,2009,Bond,appropriations
+10,W,2009,Boxer,"commerce, science, and transportation"
+11,M,2009,Brown,"agriculture, nutrition, and forestry"
+12,M,2009,Brownback,appropriations
+13,M,2009,Bunning,"banking, housing, and urban affairs"
+14,M,2009,Burr,armed services
+15,M,2009,Burris,armed services
+16,M,2009,Byrd,appropriations
+17,M,2009,Cardin,budget
+18,M,2009,Carper,environment and public works
+19,M,2009,Casey,"agriculture, nutrition, and forestry"
+20,M,2009,Chambliss,"agriculture, nutrition, and forestry"
+21,M,2009,Coburn,"health, education, labor, and pensions"
+22,M,2009,Cochran,"agriculture, nutrition, and forestry"
+23,M,2009,Conrad,"agriculture, nutrition, and forestry"
+24,M,2009,Corker,"banking, housing, and urban affairs"
+25,M,2009,Cornyn,"agriculture, nutrition, and forestry"
+26,M,2009,Crapo,"banking, housing, and urban affairs"
+27,M,2009,Demint,"banking, housing, and urban affairs"
+28,M,2009,Dodd,"banking, housing, and urban affairs"
+29,M,2009,Dorgan,appropriations
+30,M,2009,Durbin,appropriations
+31,M,2009,Ensign,budget
+32,M,2009,Enzi,budget
+33,M,2009,Feingold,budget
+34,W,2009,Feinstein,appropriations
+35,M,2009,Franken,"health, education, labor, and pensions"
+36,W,2009,Gillibrand,"agriculture, nutrition, and forestry"
+37,M,2009,Graham,armed services
+38,M,2009,Grassley,"agriculture, nutrition, and forestry"
+39,M,2009,Gregg,appropriations
+40,W,2009,Hagan,armed services
+41,M,2009,Harkin,"agriculture, nutrition, and forestry"
+42,M,2009,Hatch,finance
+43,W,2009,Hutchison,appropriations
+44,M,2009,Inhofe,armed services
+45,M,2009,Inouye,appropriations
+46,M,2009,Isakson,"commerce, science, and transportation"
+47,M,2009,Johanns,"agriculture, nutrition, and forestry"
+48,M,2009,Johnson,appropriations
+49,M,2009,Kaufman,foreign relations
+50,M,2009,Kerry,"commerce, science, and transportation"
+51,M,2009,Kirk,armed services
+52,M,2009,Kohl,appropriations
+53,M,2009,Kyl,finance
+54,M,2009,Lautenberg,appropriations
+55,M,2009,Leahy,"agriculture, nutrition, and forestry"
+56,M,2009,Lemieux,armed services
+57,M,2009,Levin,armed services
+58,M,2009,Lieberman,armed services
+59,W,2009,Lincoln,"agriculture, nutrition, and forestry"
+60,M,2009,Lugar,"agriculture, nutrition, and forestry"
+61,M,2009,Mccain,armed services
+62,W,2009,Mccaskill,armed services
+63,M,2009,Mcconnell,"agriculture, nutrition, and forestry"
+64,M,2009,Menendez,"banking, housing, and urban affairs"
+65,M,2009,Merkley,"banking, housing, and urban affairs"
+66,W,2009,Murray,appropriations
+67,M,2009,Nelson,"agriculture, nutrition, and forestry"
+68,M,2009,Nelson,armed services
+69,M,2009,Pryor,appropriations
+70,M,2009,Reed,appropriations
+71,M,2009,Risch,energy and natural resources
+72,M,2009,Roberts,"agriculture, nutrition, and forestry"
+73,M,2009,Rockefeller,"commerce, science, and transportation"
+74,M,2009,Sanders,budget
+75,M,2009,Schumer,"banking, housing, and urban affairs"
+76,M,2009,Sessions,armed services
+77,W,2009,Shaheen,energy and natural resources
+78,M,2009,Shelby,appropriations
+79,M,2009,Specter,appropriations
+80,M,2009,Tester,appropriations
+81,M,2009,Thune,"agriculture, nutrition, and forestry"
+82,M,2009,Udall,armed services
+83,M,2009,Udall,"commerce, science, and transportation"
+84,M,2009,Vitter,armed services
+85,M,2009,Voinovich,appropriations
+86,M,2009,Warner,"banking, housing, and urban affairs"
+87,M,2009,Webb,armed services
+88,M,2009,Whitehouse,budget
+89,M,2009,Wicker,armed services
+90,M,2009,Wyden,budget
+0,M,2009,Akaka,armed services
+1,M,2009,Alexander,appropriations
+2,M,2009,Barrasso,energy and natural resources
+3,M,2009,Baucus,"agriculture, nutrition, and forestry"
+4,M,2009,Bayh,armed services
+5,M,2009,Begich,armed services
+6,M,2009,Bennet,"agriculture, nutrition, and forestry"
+7,M,2009,Bennett,appropriations
+8,M,2009,Bingaman,energy and natural resources
+9,M,2009,Bond,appropriations
+10,W,2009,Boxer,"commerce, science, and transportation"
+11,M,2009,Brown,"agriculture, nutrition, and forestry"
+12,M,2009,Brownback,appropriations
+13,M,2009,Bunning,"banking, housing, and urban affairs"
+14,M,2009,Burr,armed services
+15,M,2009,Burris,armed services
+16,M,2009,Byrd,appropriations
+17,M,2009,Cardin,budget
+18,M,2009,Carper,environment and public works
+19,M,2009,Casey,"agriculture, nutrition, and forestry"
+20,M,2009,Chambliss,"agriculture, nutrition, and forestry"
+21,M,2009,Coburn,"health, education, labor, and pensions"
+22,M,2009,Cochran,"agriculture, nutrition, and forestry"
+23,M,2009,Conrad,"agriculture, nutrition, and forestry"
+24,M,2009,Corker,"banking, housing, and urban affairs"
+25,M,2009,Cornyn,"agriculture, nutrition, and forestry"
+26,M,2009,Crapo,"banking, housing, and urban affairs"
+27,M,2009,Demint,"banking, housing, and urban affairs"
+28,M,2009,Dodd,"banking, housing, and urban affairs"
+29,M,2009,Dorgan,appropriations
+30,M,2009,Durbin,appropriations
+31,M,2009,Ensign,budget
+32,M,2009,Enzi,budget
+33,M,2009,Feingold,budget
+34,W,2009,Feinstein,appropriations
+35,M,2009,Franken,"health, education, labor, and pensions"
+36,W,2009,Gillibrand,"agriculture, nutrition, and forestry"
+37,M,2009,Graham,armed services
+38,M,2009,Grassley,"agriculture, nutrition, and forestry"
+39,M,2009,Gregg,appropriations
+40,W,2009,Hagan,armed services
+41,M,2009,Harkin,"agriculture, nutrition, and forestry"
+42,M,2009,Hatch,finance
+43,W,2009,Hutchison,appropriations
+44,M,2009,Inhofe,armed services
+45,M,2009,Inouye,appropriations
+46,M,2009,Isakson,"commerce, science, and transportation"
+47,M,2009,Johanns,"agriculture, nutrition, and forestry"
+48,M,2009,Johnson,appropriations
+49,M,2009,Kaufman,foreign relations
+50,M,2009,Kerry,"commerce, science, and transportation"
+51,M,2009,Kirk,armed services
+52,M,2009,Kohl,appropriations
+53,M,2009,Kyl,finance
+54,M,2009,Lautenberg,appropriations
+55,M,2009,Leahy,"agriculture, nutrition, and forestry"
+56,M,2009,Lemieux,armed services
+57,M,2009,Levin,armed services
+58,M,2009,Lieberman,armed services
+59,W,2009,Lincoln,"agriculture, nutrition, and forestry"
+60,M,2009,Lugar,"agriculture, nutrition, and forestry"
+61,M,2009,Mccain,armed services
+62,W,2009,Mccaskill,armed services
+63,M,2009,Mcconnell,"agriculture, nutrition, and forestry"
+64,M,2009,Menendez,"banking, housing, and urban affairs"
+65,M,2009,Merkley,"banking, housing, and urban affairs"
+66,W,2009,Murray,appropriations
+67,M,2009,Nelson,"agriculture, nutrition, and forestry"
+68,M,2009,Nelson,armed services
+69,M,2009,Pryor,appropriations
+70,M,2009,Reed,appropriations
+71,M,2009,Risch,energy and natural resources
+72,M,2009,Roberts,"agriculture, nutrition, and forestry"
+73,M,2009,Rockefeller,"commerce, science, and transportation"
+74,M,2009,Sanders,budget
+75,M,2009,Schumer,"banking, housing, and urban affairs"
+76,M,2009,Sessions,armed services
+77,W,2009,Shaheen,energy and natural resources
+78,M,2009,Shelby,appropriations
+79,M,2009,Specter,appropriations
+80,M,2009,Tester,appropriations
+81,M,2009,Thune,"agriculture, nutrition, and forestry"
+82,M,2009,Udall,armed services
+83,M,2009,Udall,"commerce, science, and transportation"
+84,M,2009,Vitter,armed services
+85,M,2009,Voinovich,appropriations
+86,M,2009,Warner,"banking, housing, and urban affairs"
+87,M,2009,Webb,armed services
+88,M,2009,Whitehouse,budget
+89,M,2009,Wicker,armed services
+90,M,2009,Wyden,budget
+0,M,2010,Akaka,armed services
+1,M,2010,Alexander,appropriations
+2,M,2010,Barrasso,energy and natural resources
+3,M,2010,Baucus,"agriculture, nutrition, and forestry"
+4,M,2010,Bayh,armed services
+5,M,2010,Begich,armed services
+6,M,2010,Bennet,"agriculture, nutrition, and forestry"
+7,M,2010,Bennett,appropriations
+8,M,2010,Bingaman,armed services
+9,M,2010,Bond,appropriations
+10,W,2010,Boxer,"commerce, science, and transportation"
+11,M,2010,"Brown,",armed services
+12,M,2010,"Brown,","agriculture, nutrition, and forestry"
+13,M,2010,Brownback,appropriations
+14,M,2010,Bunning,"banking, housing, and urban affairs"
+15,M,2010,Burr,armed services
+16,M,2010,Burris,armed services
+17,M,2010,Byrd,appropriations
+18,M,2010,Cardin,budget
+19,M,2010,Carper,environment and public works
+20,M,2010,Casey,"agriculture, nutrition, and forestry"
+21,M,2010,Chambliss,"agriculture, nutrition, and forestry"
+22,M,2010,Coburn,"health, education, labor, and pensions"
+23,M,2010,Cochran,"agriculture, nutrition, and forestry"
+24,M,2010,Conrad,"agriculture, nutrition, and forestry"
+25,M,2010,Corker,"banking, housing, and urban affairs"
+26,M,2010,Cornyn,"agriculture, nutrition, and forestry"
+27,M,2010,Crapo,"banking, housing, and urban affairs"
+28,M,2010,Demint,"banking, housing, and urban affairs"
+29,M,2010,Dodd,"banking, housing, and urban affairs"
+30,M,2010,Dorgan,appropriations
+31,M,2010,Durbin,appropriations
+32,M,2010,Ensign,budget
+33,M,2010,Enzi,budget
+34,M,2010,Feingold,budget
+35,W,2010,Feinstein,appropriations
+36,M,2010,Franken,"health, education, labor, and pensions"
+37,W,2010,Gillibrand,"agriculture, nutrition, and forestry"
+38,M,2010,Graham,armed services
+39,M,2010,Grassley,"agriculture, nutrition, and forestry"
+40,M,2010,Gregg,appropriations
+41,W,2010,Hagan,armed services
+42,M,2010,Harkin,"agriculture, nutrition, and forestry"
+43,M,2010,Hatch,finance
+44,W,2010,Hutchison,appropriations
+45,M,2010,Inhofe,armed services
+46,M,2010,Inouye,appropriations
+47,M,2010,Isakson,"commerce, science, and transportation"
+48,M,2010,Johanns,"agriculture, nutrition, and forestry"
+49,M,2010,Johnson,appropriations
+50,M,2010,Kaufman,armed services
+51,M,2010,Kerry,"commerce, science, and transportation"
+52,M,2010,Kohl,appropriations
+53,M,2010,Kyl,finance
+54,M,2010,Lautenberg,appropriations
+55,M,2010,Leahy,"agriculture, nutrition, and forestry"
+56,M,2010,Lemieux,armed services
+57,M,2010,Levin,armed services
+58,M,2010,Lieberman,armed services
+59,W,2010,Lincoln,"agriculture, nutrition, and forestry"
+60,M,2010,Lugar,"agriculture, nutrition, and forestry"
+61,M,2010,Mccain,armed services
+62,W,2010,Mccaskill,armed services
+63,M,2010,Mcconnell,"agriculture, nutrition, and forestry"
+64,M,2010,Menendez,"banking, housing, and urban affairs"
+65,M,2010,Merkley,"banking, housing, and urban affairs"
+66,W,2010,Murray,appropriations
+67,M,2010,Nelson,"agriculture, nutrition, and forestry"
+68,M,2010,Nelson,armed services
+69,M,2010,Pryor,appropriations
+70,M,2010,Reed,appropriations
+71,M,2010,Risch,energy and natural resources
+72,M,2010,Roberts,"agriculture, nutrition, and forestry"
+73,M,2010,Rockefeller,"commerce, science, and transportation"
+74,M,2010,Sanders,budget
+75,M,2010,Schumer,"banking, housing, and urban affairs"
+76,M,2010,Sessions,armed services
+77,W,2010,Shaheen,energy and natural resources
+78,M,2010,Shelby,appropriations
+79,M,2010,Specter,appropriations
+80,M,2010,Tester,appropriations
+81,M,2010,Thune,"agriculture, nutrition, and forestry"
+82,M,2010,Udall,armed services
+83,M,2010,Udall,"commerce, science, and transportation"
+84,M,2010,Vitter,armed services
+85,M,2010,Voinovich,appropriations
+86,M,2010,Warner,"banking, housing, and urban affairs"
+87,M,2010,Webb,armed services
+88,M,2010,Whitehouse,budget
+89,M,2010,Wicker,armed services
+90,M,2010,Wyden,budget
+0,M,2010,Akaka,armed services
+1,M,2010,Alexander,appropriations
+2,M,2010,Barrasso,energy and natural resources
+3,M,2010,Baucus,"agriculture, nutrition, and forestry"
+4,M,2010,Bayh,armed services
+5,M,2010,Begich,armed services
+6,M,2010,Bennet,"agriculture, nutrition, and forestry"
+7,M,2010,Bennett,appropriations
+8,M,2010,Bingaman,armed services
+9,M,2010,Bond,appropriations
+10,W,2010,Boxer,"commerce, science, and transportation"
+11,M,2010,"Brown,",armed services
+12,M,2010,"Brown,","agriculture, nutrition, and forestry"
+13,M,2010,Brownback,appropriations
+14,M,2010,Bunning,"banking, housing, and urban affairs"
+15,M,2010,Burr,armed services
+16,M,2010,Burris,armed services
+17,M,2010,Cardin,budget
+18,M,2010,Carper,environment and public works
+19,M,2010,Casey,"agriculture, nutrition, and forestry"
+20,M,2010,Chambliss,"agriculture, nutrition, and forestry"
+21,M,2010,Coburn,"health, education, labor, and pensions"
+22,M,2010,Cochran,"agriculture, nutrition, and forestry"
+23,M,2010,Conrad,"agriculture, nutrition, and forestry"
+24,M,2010,Corker,"banking, housing, and urban affairs"
+25,M,2010,Cornyn,"agriculture, nutrition, and forestry"
+26,M,2010,Crapo,"banking, housing, and urban affairs"
+27,M,2010,Demint,"banking, housing, and urban affairs"
+28,M,2010,Dodd,"banking, housing, and urban affairs"
+29,M,2010,Dorgan,appropriations
+30,M,2010,Durbin,appropriations
+31,M,2010,Ensign,budget
+32,M,2010,Enzi,budget
+33,M,2010,Feingold,budget
+34,W,2010,Feinstein,appropriations
+35,M,2010,Franken,"health, education, labor, and pensions"
+36,W,2010,Gillibrand,"agriculture, nutrition, and forestry"
+37,M,2010,Goodwin,armed services
+38,M,2010,Graham,armed services
+39,M,2010,Grassley,"agriculture, nutrition, and forestry"
+40,M,2010,Gregg,appropriations
+41,W,2010,Hagan,armed services
+42,M,2010,Harkin,"agriculture, nutrition, and forestry"
+43,M,2010,Hatch,finance
+44,W,2010,Hutchison,appropriations
+45,M,2010,Inhofe,armed services
+46,M,2010,Inouye,appropriations
+47,M,2010,Isakson,"commerce, science, and transportation"
+48,M,2010,Johanns,"agriculture, nutrition, and forestry"
+49,M,2010,Johnson,appropriations
+50,M,2010,Kaufman,armed services
+51,M,2010,Kerry,"commerce, science, and transportation"
+52,M,2010,Kohl,appropriations
+53,M,2010,Kyl,finance
+54,M,2010,Lautenberg,appropriations
+55,M,2010,Leahy,"agriculture, nutrition, and forestry"
+56,M,2010,Lemieux,armed services
+57,M,2010,Levin,armed services
+58,M,2010,Lieberman,armed services
+59,W,2010,Lincoln,"agriculture, nutrition, and forestry"
+60,M,2010,Lugar,"agriculture, nutrition, and forestry"
+61,M,2010,Mccain,armed services
+62,W,2010,Mccaskill,armed services
+63,M,2010,Mcconnell,"agriculture, nutrition, and forestry"
+64,M,2010,Menendez,"banking, housing, and urban affairs"
+65,M,2010,Merkley,"banking, housing, and urban affairs"
+66,W,2010,Murray,appropriations
+67,M,2010,Nelson,"agriculture, nutrition, and forestry"
+68,M,2010,Nelson,armed services
+69,M,2010,Pryor,appropriations
+70,M,2010,Reed,appropriations
+71,M,2010,Risch,energy and natural resources
+72,M,2010,Roberts,"agriculture, nutrition, and forestry"
+73,M,2010,Rockefeller,"commerce, science, and transportation"
+74,M,2010,Sanders,budget
+75,M,2010,Schumer,"banking, housing, and urban affairs"
+76,M,2010,Sessions,armed services
+77,W,2010,Shaheen,energy and natural resources
+78,M,2010,Shelby,appropriations
+79,M,2010,Specter,appropriations
+80,M,2010,Tester,appropriations
+81,M,2010,Thune,"agriculture, nutrition, and forestry"
+82,M,2010,Udall,armed services
+83,M,2010,Udall,"commerce, science, and transportation"
+84,M,2010,Vitter,armed services
+85,M,2010,Voinovich,appropriations
+86,M,2010,Warner,"banking, housing, and urban affairs"
+87,M,2010,Webb,armed services
+88,M,2010,Whitehouse,budget
+89,M,2010,Wicker,armed services
+90,M,2010,Wyden,budget
+0,M,2010,Akaka,armed services
+1,M,2010,Alexander,appropriations
+2,M,2010,Barrasso,energy and natural resources
+3,M,2010,Baucus,"agriculture, nutrition, and forestry"
+4,M,2010,Bayh,armed services
+5,M,2010,Begich,armed services
+6,M,2010,Bennet,"agriculture, nutrition, and forestry"
+7,M,2010,Bennett,appropriations
+8,M,2010,Bingaman,armed services
+9,M,2010,Bond,appropriations
+10,W,2010,Boxer,"commerce, science, and transportation"
+11,M,2010,"Brown,",armed services
+12,M,2010,"Brown,","agriculture, nutrition, and forestry"
+13,M,2010,Brownback,appropriations
+14,M,2010,Bunning,"banking, housing, and urban affairs"
+15,M,2010,Burr,armed services
+16,M,2010,Cardin,budget
+17,M,2010,Carper,environment and public works
+18,M,2010,Casey,"agriculture, nutrition, and forestry"
+19,M,2010,Chambliss,"agriculture, nutrition, and forestry"
+20,M,2010,Coburn,"health, education, labor, and pensions"
+21,M,2010,Cochran,"agriculture, nutrition, and forestry"
+22,M,2010,Conrad,"agriculture, nutrition, and forestry"
+23,M,2010,Coons,armed services
+24,M,2010,Corker,"banking, housing, and urban affairs"
+25,M,2010,Cornyn,"agriculture, nutrition, and forestry"
+26,M,2010,Crapo,"banking, housing, and urban affairs"
+27,M,2010,Demint,"banking, housing, and urban affairs"
+28,M,2010,Dodd,"banking, housing, and urban affairs"
+29,M,2010,Dorgan,appropriations
+30,M,2010,Durbin,appropriations
+31,M,2010,Ensign,budget
+32,M,2010,Enzi,budget
+33,M,2010,Feingold,budget
+34,W,2010,Feinstein,appropriations
+35,M,2010,Franken,"health, education, labor, and pensions"
+36,W,2010,Gillibrand,"agriculture, nutrition, and forestry"
+37,M,2010,Graham,armed services
+38,M,2010,Grassley,"agriculture, nutrition, and forestry"
+39,M,2010,Gregg,appropriations
+40,W,2010,Hagan,armed services
+41,M,2010,Harkin,"agriculture, nutrition, and forestry"
+42,M,2010,Hatch,finance
+43,W,2010,Hutchison,appropriations
+44,M,2010,Inhofe,armed services
+45,M,2010,Inouye,appropriations
+46,M,2010,Isakson,"commerce, science, and transportation"
+47,M,2010,Johanns,"agriculture, nutrition, and forestry"
+48,M,2010,Johnson,appropriations
+49,M,2010,Kerry,"commerce, science, and transportation"
+50,M,2010,Kirk,armed services
+51,M,2010,Kohl,appropriations
+52,M,2010,Kyl,finance
+53,M,2010,Lautenberg,appropriations
+54,M,2010,Leahy,"agriculture, nutrition, and forestry"
+55,M,2010,Lemieux,armed services
+56,M,2010,Levin,armed services
+57,M,2010,Lieberman,armed services
+58,W,2010,Lincoln,"agriculture, nutrition, and forestry"
+59,M,2010,Lugar,"agriculture, nutrition, and forestry"
+60,M,2010,Manchin,armed services
+61,M,2010,Mccain,armed services
+62,W,2010,Mccaskill,armed services
+63,M,2010,Mcconnell,"agriculture, nutrition, and forestry"
+64,M,2010,Menendez,"banking, housing, and urban affairs"
+65,M,2010,Merkley,"banking, housing, and urban affairs"
+66,W,2010,Murray,appropriations
+67,M,2010,Nelson,"agriculture, nutrition, and forestry"
+68,M,2010,Nelson,armed services
+69,M,2010,Pryor,appropriations
+70,M,2010,Reed,appropriations
+71,M,2010,Risch,energy and natural resources
+72,M,2010,Roberts,"agriculture, nutrition, and forestry"
+73,M,2010,Rockefeller,"commerce, science, and transportation"
+74,M,2010,Sanders,budget
+75,M,2010,Schumer,"banking, housing, and urban affairs"
+76,M,2010,Sessions,armed services
+77,W,2010,Shaheen,energy and natural resources
+78,M,2010,Shelby,appropriations
+79,M,2010,Specter,appropriations
+80,M,2010,Tester,appropriations
+81,M,2010,Thune,"agriculture, nutrition, and forestry"
+82,M,2010,Udall,armed services
+83,M,2010,Udall,"commerce, science, and transportation"
+84,M,2010,Vitter,armed services
+85,M,2010,Voinovich,appropriations
+86,M,2010,Warner,"banking, housing, and urban affairs"
+87,M,2010,Webb,armed services
+88,M,2010,Whitehouse,budget
+89,M,2010,Wicker,armed services
+90,M,2010,Wyden,budget
+0,M,2009,Akaka,armed services
+1,M,2009,Alexander,appropriations
+2,M,2009,Barrasso,energy and natural resources
+3,M,2009,Baucus,"agriculture, nutrition, and forestry"
+4,M,2009,Bayh,armed services
+5,M,2009,Begich,armed services
+6,M,2009,Bennet,"agriculture, nutrition, and forestry"
+7,M,2009,Bennett,appropriations
+8,M,2009,Bingaman,energy and natural resources
+9,M,2009,Bond,appropriations
+10,W,2009,Boxer,"commerce, science, and transportation"
+11,M,2009,Brown,"agriculture, nutrition, and forestry"
+12,M,2009,Brownback,appropriations
+13,M,2009,Bunning,"banking, housing, and urban affairs"
+14,M,2009,Burr,armed services
+15,M,2009,Burris,armed services
+16,M,2009,Byrd,appropriations
+17,M,2009,Cardin,budget
+18,M,2009,Carper,environment and public works
+19,M,2009,Casey,"agriculture, nutrition, and forestry"
+20,M,2009,Chambliss,"agriculture, nutrition, and forestry"
+21,M,2009,Coburn,"health, education, labor, and pensions"
+22,M,2009,Cochran,"agriculture, nutrition, and forestry"
+23,M,2009,Conrad,"agriculture, nutrition, and forestry"
+24,M,2009,Corker,"banking, housing, and urban affairs"
+25,M,2009,Cornyn,budget
+26,M,2009,Crapo,"banking, housing, and urban affairs"
+27,M,2009,Demint,"banking, housing, and urban affairs"
+28,M,2009,Dodd,"banking, housing, and urban affairs"
+29,M,2009,Dorgan,appropriations
+30,M,2009,Durbin,appropriations
+31,M,2009,Ensign,budget
+32,M,2009,Enzi,budget
+33,M,2009,Feingold,budget
+34,W,2009,Feinstein,appropriations
+35,W,2009,Gillibrand,"agriculture, nutrition, and forestry"
+36,M,2009,Graham,armed services
+37,M,2009,Grassley,"agriculture, nutrition, and forestry"
+38,M,2009,Gregg,appropriations
+39,W,2009,Hagan,armed services
+40,M,2009,Harkin,"agriculture, nutrition, and forestry"
+41,M,2009,Hatch,finance
+42,W,2009,Hutchison,appropriations
+43,M,2009,Inhofe,armed services
+44,M,2009,Inouye,appropriations
+45,M,2009,Isakson,"commerce, science, and transportation"
+46,M,2009,Johanns,"agriculture, nutrition, and forestry"
+47,M,2009,Johnson,appropriations
+48,M,2009,Kaufman,foreign relations
+49,M,2009,Kennedy,armed services
+50,M,2009,Kerry,"commerce, science, and transportation"
+51,M,2009,Kohl,appropriations
+52,M,2009,Kyl,finance
+53,M,2009,Lautenberg,appropriations
+54,M,2009,Leahy,"agriculture, nutrition, and forestry"
+55,M,2009,Levin,armed services
+56,M,2009,Lieberman,armed services
+57,W,2009,Lincoln,"agriculture, nutrition, and forestry"
+58,M,2009,Lugar,"agriculture, nutrition, and forestry"
+59,M,2009,Martinez,armed services
+60,M,2009,Mccain,armed services
+61,W,2009,Mccaskill,armed services
+62,M,2009,Mcconnell,"agriculture, nutrition, and forestry"
+63,M,2009,Menendez,"banking, housing, and urban affairs"
+64,M,2009,Merkley,"banking, housing, and urban affairs"
+65,W,2009,Murray,appropriations
+66,M,2009,Nelson,armed services
+67,M,2009,Nelson,"agriculture, nutrition, and forestry"
+68,M,2009,Pryor,appropriations
+69,M,2009,Reed,appropriations
+70,M,2009,Reid,joint congressional committee on inaugural
+71,M,2009,Risch,energy and natural resources
+72,M,2009,Roberts,"agriculture, nutrition, and forestry"
+73,M,2009,Rockefeller,"commerce, science, and transportation"
+74,M,2009,Sanders,budget
+75,M,2009,Schumer,"banking, housing, and urban affairs"
+76,M,2009,Sessions,armed services
+77,W,2009,Shaheen,energy and natural resources
+78,M,2009,Shelby,appropriations
+79,M,2009,Specter,appropriations
+80,M,2009,Tester,appropriations
+81,M,2009,Thune,"agriculture, nutrition, and forestry"
+82,M,2009,Udall,armed services
+83,M,2009,Udall,"commerce, science, and transportation"
+84,M,2009,Vitter,armed services
+85,M,2009,Voinovich,appropriations
+86,M,2009,Warner,"banking, housing, and urban affairs"
+87,M,2009,Webb,armed services
+88,M,2009,Whitehouse,budget
+89,M,2009,Wicker,armed services
+90,M,2009,Wyden,budget
+0,M,2011,Akaka,armed services
+1,M,2011,Alexander,appropriations
+2,M,2011,Barrasso,energy and natural resources
+3,M,2011,Baucus,"agriculture, nutrition, and forestry"
+4,M,2011,Begich,armed services
+5,M,2011,Bennet,"agriculture, nutrition, and forestry"
+6,M,2011,Bingaman,energy and natural resources
+7,M,2011,Blumenthal,armed services
+8,M,2011,Blunt,appropriations
+9,M,2011,Boozman,"agriculture, nutrition, and forestry"
+10,W,2011,Boxer,"commerce, science, and transportation"
+11,M,2011,Brown,armed services
+12,M,2011,Brown,"agriculture, nutrition, and forestry"
+13,M,2011,Burr,finance
+14,M,2011,Cardin,budget
+15,M,2011,Carper,environment and public works
+16,M,2011,Casey,"agriculture, nutrition, and forestry"
+17,M,2011,Chambliss,"agriculture, nutrition, and forestry"
+18,M,2011,Coats,appropriations
+19,M,2011,Coburn,finance
+20,M,2011,Cochran,"agriculture, nutrition, and forestry"
+21,M,2011,Conrad,"agriculture, nutrition, and forestry"
+22,M,2011,Coons,budget
+23,M,2011,Corker,"banking, housing, and urban affairs"
+24,M,2011,Cornyn,armed services
+25,M,2011,Crapo,"banking, housing, and urban affairs"
+26,M,2011,Demint,"banking, housing, and urban affairs"
+27,M,2011,Durbin,appropriations
+28,M,2011,Enzi,budget
+29,W,2011,Feinstein,appropriations
+30,M,2011,Franken,energy and natural resources
+31,W,2011,Gillibrand,"agriculture, nutrition, and forestry"
+32,M,2011,Graham,appropriations
+33,M,2011,Grassley,"agriculture, nutrition, and forestry"
+34,W,2011,Hagan,armed services
+35,M,2011,Harkin,"agriculture, nutrition, and forestry"
+36,M,2011,Hatch,finance
+37,M,2011,Heller,"commerce, science, and transportation"
+38,M,2011,Hoeven,"agriculture, nutrition, and forestry"
+39,W,2011,Hutchison,appropriations
+40,M,2011,Inhofe,armed services
+41,M,2011,Inouye,appropriations
+42,M,2011,Isakson,"commerce, science, and transportation"
+43,M,2011,Johanns,"agriculture, nutrition, and forestry"
+44,M,2011,Johnson,appropriations
+45,M,2011,Johnson,appropriations
+46,M,2011,Kerry,"commerce, science, and transportation"
+47,M,2011,Kirk,appropriations
+48,M,2011,Kohl,appropriations
+49,M,2011,Kyl,finance
+50,M,2011,Lautenberg,appropriations
+51,M,2011,Leahy,"agriculture, nutrition, and forestry"
+52,M,2011,Lee,energy and natural resources
+53,M,2011,Levin,armed services
+54,M,2011,Lieberman,armed services
+55,M,2011,Lugar,"agriculture, nutrition, and forestry"
+56,M,2011,Manchin,armed services
+57,M,2011,Mccain,armed services
+58,W,2011,Mccaskill,armed services
+59,M,2011,Mcconnell,"agriculture, nutrition, and forestry"
+60,M,2011,Menendez,"banking, housing, and urban affairs"
+61,M,2011,Merkley,"banking, housing, and urban affairs"
+62,M,2011,Moran,appropriations
+63,W,2011,Murray,appropriations
+64,M,2011,Nelson,"agriculture, nutrition, and forestry"
+65,M,2011,Nelson,budget
+66,M,2011,Paul,energy and natural resources
+67,M,2011,Portman,armed services
+68,M,2011,Pryor,appropriations
+69,M,2011,Reed,appropriations
+70,M,2011,Risch,energy and natural resources
+71,M,2011,Roberts,"agriculture, nutrition, and forestry"
+72,M,2011,Rockefeller,"commerce, science, and transportation"
+73,M,2011,Rubio,"commerce, science, and transportation"
+74,M,2011,Sanders,budget
+75,M,2011,Schumer,"banking, housing, and urban affairs"
+76,M,2011,Sessions,armed services
+77,W,2011,Shaheen,armed services
+78,M,2011,Shelby,appropriations
+79,M,2011,Tester,appropriations
+80,M,2011,Thune,"agriculture, nutrition, and forestry"
+81,M,2011,Toomey,"banking, housing, and urban affairs"
+82,M,2011,Udall,armed services
+83,M,2011,Udall,"commerce, science, and transportation"
+84,M,2011,Vitter,armed services
+85,M,2011,Warner,"banking, housing, and urban affairs"
+86,M,2011,Webb,armed services
+87,M,2011,Whitehouse,budget
+88,M,2011,Wicker,armed services
+89,M,2011,Wyden,budget
+0,M,2014,Alexander,appropriations
+1,M,2014,Barrasso,energy and natural resources
+2,M,2014,Baucus,"agriculture, nutrition, and forestry"
+3,M,2014,Begich,appropriations
+4,M,2014,Bennet,"agriculture, nutrition, and forestry"
+5,M,2014,Blumenthal,armed services
+6,M,2014,Blunt,appropriations
+7,M,2014,Booker,"commerce, science, and transportation"
+8,M,2014,Boozman,"agriculture, nutrition, and forestry"
+9,W,2014,Boxer,"commerce, science, and transportation"
+10,M,2014,Brown,"agriculture, nutrition, and forestry"
+11,M,2014,Burr,finance
+12,M,2014,Cardin,environment and public works
+13,M,2014,Carper,environment and public works
+14,M,2014,Casey,"agriculture, nutrition, and forestry"
+15,M,2014,Chambliss,"agriculture, nutrition, and forestry"
+16,M,2014,Coats,appropriations
+17,M,2014,Coburn,"banking, housing, and urban affairs"
+18,M,2014,Cochran,"agriculture, nutrition, and forestry"
+19,M,2014,Coons,appropriations
+20,M,2014,Corker,"banking, housing, and urban affairs"
+21,M,2014,Cornyn,finance
+22,M,2014,Crapo,"banking, housing, and urban affairs"
+23,M,2014,Cruz,armed services
+24,M,2014,Donnelly,"agriculture, nutrition, and forestry"
+25,M,2014,Durbin,appropriations
+26,M,2014,Enzi,budget
+27,W,2014,Feinstein,appropriations
+28,W,2014,Fischer,armed services
+29,M,2014,Flake,energy and natural resources
+30,M,2014,Franken,energy and natural resources
+31,W,2014,Gillibrand,"agriculture, nutrition, and forestry"
+32,M,2014,Graham,appropriations
+33,M,2014,Grassley,"agriculture, nutrition, and forestry"
+34,W,2014,Hagan,armed services
+35,M,2014,Harkin,"agriculture, nutrition, and forestry"
+36,M,2014,Hatch,finance
+37,M,2014,Heinrich,energy and natural resources
+38,M,2014,Heller,"banking, housing, and urban affairs"
+39,M,2014,Hoeven,"agriculture, nutrition, and forestry"
+40,M,2014,Inhofe,armed services
+41,M,2014,Isakson,finance
+42,M,2014,Johanns,"agriculture, nutrition, and forestry"
+43,M,2014,Johnson,budget
+44,M,2014,Johnson,appropriations
+45,M,2014,Kaine,armed services
+46,M,2014,King,armed services
+47,M,2014,Kirk,appropriations
+48,M,2014,Leahy,"agriculture, nutrition, and forestry"
+49,M,2014,Lee,armed services
+50,M,2014,Levin,armed services
+51,M,2014,Manchin,armed services
+52,M,2014,Markey,"commerce, science, and transportation"
 53,M,2014,"M
-ccain",['armedservices']
+ccain",armed services
 54,W,2014,"M
-ccaskill",['armedservices']
+ccaskill",armed services
 55,M,2014,"M
-cconnell","['agriculture', 'nutrition', 'forestry']"
-56,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-57,M,2014,Merkley,['appropriations']
-58,M,2014,Moran,['appropriations']
-59,M,2014,Murphy,['foreignrelations']
-60,W,2014,Murray,['appropriations']
-61,M,2014,Nelson,['armedservices']
-62,M,2014,Paul,['foreignrelations']
-63,M,2014,Portman,['budget']
-64,M,2014,Pryor,['appropriations']
-65,M,2014,Reed,['appropriations']
-66,M,2014,Risch,"['energy', 'naturalresources']"
-67,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-68,M,2014,Rockefeller,"['commerce', 'science', 'transportation']"
-69,M,2014,Rubio,"['commerce', 'science', 'transportation']"
-70,M,2014,Sanders,['budget']
-71,M,2014,Schatz,"['commerce', 'science', 'transportation']"
-72,M,2014,Schumer,"['banking', 'housing', 'urbanaffairs']"
-73,M,2014,Scott,"['commerce', 'science', 'transportation']"
-74,M,2014,Sessions,['armedservices']
-75,W,2014,Shaheen,['appropriations']
-76,M,2014,Shelby,['appropriations']
-77,M,2014,Tester,['appropriations']
-78,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-79,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-80,M,2014,Udall,['armedservices']
-81,M,2014,Udall,['appropriations']
-82,M,2014,Vitter,['armedservices']
-83,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-84,M,2014,Whitehouse,['budget']
-85,M,2014,Wicker,['armedservices']
-86,M,2014,Wyden,['budget']
-0,M,2014,Alexander,['appropriations']
-1,M,2014,Barrasso,"['energy', 'naturalresources']"
-2,M,2014,Begich,['appropriations']
-3,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-4,M,2014,Blumenthal,['armedservices']
-5,M,2014,Blunt,['appropriations']
-6,M,2014,Booker,"['commerce', 'science', 'transportation']"
-7,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-8,W,2014,Boxer,"['commerce', 'science', 'transportation']"
-9,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-10,M,2014,Burr,['finance']
-11,M,2014,Cardin,"['environment', 'publicworks']"
-12,M,2014,Carper,"['environment', 'publicworks']"
-13,M,2014,Casey,"['agriculture', 'nutrition', 'forestry']"
-14,M,2014,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-15,M,2014,Coats,['appropriations']
-16,M,2014,Coburn,"['banking', 'housing', 'urbanaffairs']"
-17,M,2014,Cochran,"['agriculture', 'nutrition', 'forestry']"
-18,M,2014,Coons,['appropriations']
-19,M,2014,Corker,"['banking', 'housing', 'urbanaffairs']"
-20,M,2014,Cornyn,['finance']
-21,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-22,M,2014,Cruz,['armedservices']
-23,M,2014,Donnelly,"['agriculture', 'nutrition', 'forestry']"
-24,M,2014,Durbin,['appropriations']
-25,M,2014,Enzi,['budget']
-26,W,2014,Feinstein,['appropriations']
-27,W,2014,Fischer,['armedservices']
-28,M,2014,Flake,"['energy', 'naturalresources']"
-29,M,2014,Franken,"['energy', 'naturalresources']"
-30,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-31,M,2014,Graham,['appropriations']
-32,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-33,W,2014,Hagan,['armedservices']
-34,M,2014,Harkin,"['agriculture', 'nutrition', 'forestry']"
-35,M,2014,Hatch,['finance']
-36,M,2014,Heinrich,"['energy', 'naturalresources']"
-37,M,2014,Heller,"['banking', 'housing', 'urbanaffairs']"
-38,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-39,M,2014,Inhofe,['armedservices']
-40,M,2014,Isakson,['finance']
-41,M,2014,Johanns,"['agriculture', 'nutrition', 'forestry']"
-42,M,2014,Johnson,['budget']
-43,M,2014,Johnson,['appropriations']
-44,M,2014,Kaine,['armedservices']
-45,M,2014,King,['armedservices']
-46,M,2014,Kirk,['appropriations']
-47,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-48,M,2014,Lee,['armedservices']
-49,M,2014,Levin,['armedservices']
-50,M,2014,Manchin,['armedservices']
-51,M,2014,Markey,"['commerce', 'science', 'transportation']"
+cconnell","agriculture, nutrition, and forestry"
+56,M,2014,Menendez,"banking, housing, and urban affairs"
+57,M,2014,Merkley,appropriations
+58,M,2014,Moran,appropriations
+59,M,2014,Murphy,foreign relations
+60,W,2014,Murray,appropriations
+61,M,2014,Nelson,armed services
+62,M,2014,Paul,foreign relations
+63,M,2014,Portman,budget
+64,M,2014,Pryor,appropriations
+65,M,2014,Reed,appropriations
+66,M,2014,Risch,energy and natural resources
+67,M,2014,Roberts,"agriculture, nutrition, and forestry"
+68,M,2014,Rockefeller,"commerce, science, and transportation"
+69,M,2014,Rubio,"commerce, science, and transportation"
+70,M,2014,Sanders,budget
+71,M,2014,Schatz,"commerce, science, and transportation"
+72,M,2014,Schumer,"banking, housing, and urban affairs"
+73,M,2014,Scott,"commerce, science, and transportation"
+74,M,2014,Sessions,armed services
+75,W,2014,Shaheen,appropriations
+76,M,2014,Shelby,appropriations
+77,M,2014,Tester,appropriations
+78,M,2014,Thune,"agriculture, nutrition, and forestry"
+79,M,2014,Toomey,"banking, housing, and urban affairs"
+80,M,2014,Udall,armed services
+81,M,2014,Udall,appropriations
+82,M,2014,Vitter,armed services
+83,M,2014,Warner,"banking, housing, and urban affairs"
+84,M,2014,Whitehouse,budget
+85,M,2014,Wicker,armed services
+86,M,2014,Wyden,budget
+0,M,2014,Alexander,appropriations
+1,M,2014,Barrasso,energy and natural resources
+2,M,2014,Begich,appropriations
+3,M,2014,Bennet,"agriculture, nutrition, and forestry"
+4,M,2014,Blumenthal,armed services
+5,M,2014,Blunt,appropriations
+6,M,2014,Booker,"commerce, science, and transportation"
+7,M,2014,Boozman,"agriculture, nutrition, and forestry"
+8,W,2014,Boxer,"commerce, science, and transportation"
+9,M,2014,Brown,"agriculture, nutrition, and forestry"
+10,M,2014,Burr,finance
+11,M,2014,Cardin,environment and public works
+12,M,2014,Carper,environment and public works
+13,M,2014,Casey,"agriculture, nutrition, and forestry"
+14,M,2014,Chambliss,"agriculture, nutrition, and forestry"
+15,M,2014,Coats,appropriations
+16,M,2014,Coburn,"banking, housing, and urban affairs"
+17,M,2014,Cochran,"agriculture, nutrition, and forestry"
+18,M,2014,Coons,appropriations
+19,M,2014,Corker,"banking, housing, and urban affairs"
+20,M,2014,Cornyn,finance
+21,M,2014,Crapo,"banking, housing, and urban affairs"
+22,M,2014,Cruz,armed services
+23,M,2014,Donnelly,"agriculture, nutrition, and forestry"
+24,M,2014,Durbin,appropriations
+25,M,2014,Enzi,budget
+26,W,2014,Feinstein,appropriations
+27,W,2014,Fischer,armed services
+28,M,2014,Flake,energy and natural resources
+29,M,2014,Franken,energy and natural resources
+30,W,2014,Gillibrand,"agriculture, nutrition, and forestry"
+31,M,2014,Graham,appropriations
+32,M,2014,Grassley,"agriculture, nutrition, and forestry"
+33,W,2014,Hagan,armed services
+34,M,2014,Harkin,"agriculture, nutrition, and forestry"
+35,M,2014,Hatch,finance
+36,M,2014,Heinrich,energy and natural resources
+37,M,2014,Heller,"banking, housing, and urban affairs"
+38,M,2014,Hoeven,"agriculture, nutrition, and forestry"
+39,M,2014,Inhofe,armed services
+40,M,2014,Isakson,finance
+41,M,2014,Johanns,"agriculture, nutrition, and forestry"
+42,M,2014,Johnson,budget
+43,M,2014,Johnson,appropriations
+44,M,2014,Kaine,armed services
+45,M,2014,King,armed services
+46,M,2014,Kirk,appropriations
+47,M,2014,Leahy,"agriculture, nutrition, and forestry"
+48,M,2014,Lee,armed services
+49,M,2014,Levin,armed services
+50,M,2014,Manchin,armed services
+51,M,2014,Markey,"commerce, science, and transportation"
 52,M,2014,"M
-ccain",['armedservices']
-53,W,2014,M,[]
+ccain",armed services
+53,W,2014,M,armed services
 54,M,2014,"M
-cconnell","['agriculture', 'nutrition', 'forestry']"
-55,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-56,M,2014,Merkley,['appropriations']
-57,M,2014,Moran,['appropriations']
-58,M,2014,Murphy,['foreignrelations']
-59,W,2014,Murray,['appropriations']
-60,M,2014,Nelson,['armedservices']
-61,M,2014,Paul,['foreignrelations']
-62,M,2014,Portman,['budget']
-63,M,2014,Pryor,['appropriations']
-64,M,2014,Reed,['appropriations']
-65,M,2014,Risch,"['energy', 'naturalresources']"
-66,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-67,M,2014,Rockefeller,"['commerce', 'science', 'transportation']"
-68,M,2014,Rubio,"['commerce', 'science', 'transportation']"
-69,M,2014,Sanders,['budget']
-70,M,2014,Schatz,"['commerce', 'science', 'transportation']"
-71,M,2014,Schumer,"['banking', 'housing', 'urbanaffairs']"
-72,M,2014,Scott,"['commerce', 'science', 'transportation']"
-73,M,2014,Sessions,['armedservices']
-74,W,2014,Shaheen,['appropriations']
-75,M,2014,Shelby,['appropriations']
-76,M,2014,Tester,['appropriations']
-77,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-78,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-79,M,2014,Udall,['armedservices']
-80,M,2014,Udall,['appropriations']
-81,M,2014,Vitter,['armedservices']
-82,M,2014,Walsh,"['agriculture', 'nutrition', 'forestry']"
-83,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-84,M,2014,Whitehouse,['budget']
-85,M,2014,Wicker,['armedservices']
-86,M,2014,Wyden,['budget']
-0,M,2014,Alexander,['appropriations']
-1,M,2014,Barrasso,"['energy', 'naturalresources']"
-2,M,2014,Baucus,"['agriculture', 'nutrition', 'forestry']"
-3,M,2014,Begich,['appropriations']
-4,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-5,M,2014,Blumenthal,['armedservices']
-6,M,2014,Blunt,['appropriations']
-7,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-8,W,2014,Boxer,"['commerce', 'science', 'transportation']"
-9,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-10,M,2014,Burr,['finance']
-11,M,2014,Cardin,"['environment', 'publicworks']"
-12,M,2014,Carper,"['environment', 'publicworks']"
-13,M,2014,Casey,['finance']
-14,M,2014,Chambliss,"['agriculture', 'nutrition', 'forestry']"
-15,M,2014,Coats,['appropriations']
-16,M,2014,Coburn,"['banking', 'housing', 'urbanaffairs']"
-17,M,2014,Cochran,"['agriculture', 'nutrition', 'forestry']"
-18,M,2014,Coons,['budget']
-19,M,2014,Corker,"['banking', 'housing', 'urbanaffairs']"
-20,M,2014,Cornyn,['finance']
-21,M,2014,Cowan,"['agriculture', 'nutrition', 'forestry']"
-22,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-23,M,2014,Cruz,['armedservices']
-24,M,2014,Donnelly,"['agriculture', 'nutrition', 'forestry']"
-25,M,2014,Durbin,['appropriations']
-26,M,2014,Enzi,['budget']
-27,W,2014,Feinstein,['appropriations']
-28,W,2014,Fischer,['armedservices']
-29,M,2014,Flake,"['energy', 'naturalresources']"
-30,M,2014,Franken,"['energy', 'naturalresources']"
-31,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-32,M,2014,Graham,['appropriations']
-33,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-34,W,2014,Hagan,['armedservices']
-35,M,2014,Harkin,"['agriculture', 'nutrition', 'forestry']"
-36,M,2014,Hatch,['finance']
-37,M,2014,Heinrich,"['energy', 'naturalresources']"
-38,M,2014,Heller,"['banking', 'housing', 'urbanaffairs']"
-39,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-40,M,2014,Inhofe,['armedservices']
-41,M,2014,Isakson,['finance']
-42,M,2014,Johanns,"['agriculture', 'nutrition', 'forestry']"
-43,M,2014,Johnson,['budget']
-44,M,2014,Johnson,['appropriations']
-45,M,2014,Kaine,['armedservices']
-46,M,2014,King,['armedservices']
-47,M,2014,Kirk,['appropriations']
-48,M,2014,Lautenberg,['appropriations']
-49,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-50,M,2014,Lee,['armedservices']
-51,M,2014,Levin,['armedservices']
-52,M,2014,Manchin,['armedservices']
-53,M,2014,"M
-ccain",['armedservices']
-54,W,2014,M,[]
-55,M,2014,"M
-cconnell","['agriculture', 'nutrition', 'forestry']"
-56,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-57,M,2014,Merkley,['appropriations']
-58,M,2014,Moran,['appropriations']
-59,M,2014,Murphy,['foreignrelations']
-60,W,2014,Murray,['appropriations']
-61,M,2014,Nelson,['armedservices']
-62,M,2014,Paul,['foreignrelations']
-63,M,2014,Portman,['budget']
-64,M,2014,Pryor,['appropriations']
-65,M,2014,Reed,['appropriations']
-66,M,2014,Risch,"['energy', 'naturalresources']"
-67,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-68,M,2014,Rockefeller,"['commerce', 'science', 'transportation']"
-69,M,2014,Rubio,"['commerce', 'science', 'transportation']"
-70,M,2014,Sanders,['budget']
-71,M,2014,Schatz,"['commerce', 'science', 'transportation']"
-72,M,2014,Schumer,"['banking', 'housing', 'urbanaffairs']"
-73,M,2014,Scott,"['commerce', 'science', 'transportation']"
-74,M,2014,Sessions,['armedservices']
-75,W,2014,Shaheen,['appropriations']
-76,M,2014,Shelby,['appropriations']
-77,M,2014,Tester,['appropriations']
-78,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-79,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-80,M,2014,Udall,['armedservices']
-81,M,2014,Udall,['appropriations']
-82,M,2014,Vitter,['armedservices']
-83,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-84,M,2014,Whitehouse,['budget']
-85,M,2014,Wicker,['armedservices']
-86,M,2014,Wyden,['budget']
-0,M,2014,Alexander,['appropriations']
-1,M,2014,Barrasso,"['energy', 'naturalresources']"
-2,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-3,M,2014,Blumenthal,['armedservices']
-4,M,2014,Blunt,['appropriations']
-5,M,2014,Booker,"['commerce', 'science', 'transportation']"
-6,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-7,W,2014,Boxer,"['environment', 'publicworks']"
-8,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-9,M,2014,Burr,['finance']
-10,W,2014,Capito,['appropriations']
-11,M,2014,Cardin,"['environment', 'publicworks']"
-12,M,2014,Carper,"['environment', 'publicworks']"
-13,M,2014,Casey,"['agriculture', 'nutrition', 'forestry']"
-14,M,2014,Cassidy,['appropriations']
-15,M,2014,Coats,['finance']
-16,M,2014,Cochran,"['agriculture', 'nutrition', 'forestry']"
-17,M,2014,Coons,['appropriations']
-18,M,2014,Corker,"['banking', 'housing', 'urbanaffairs']"
-19,M,2014,Cornyn,['finance']
-20,M,2014,Cotton,['armedservices']
-21,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-22,M,2014,Cruz,['armedservices']
-23,M,2014,Daines,['appropriations']
-24,M,2014,Donnelly,"['agriculture', 'nutrition', 'forestry']"
-25,M,2014,Durbin,['appropriations']
-26,M,2014,Enzi,['budget']
-27,W,2014,Ernst,"['agriculture', 'nutrition', 'forestry']"
-28,W,2014,Feinstein,['appropriations']
-29,W,2014,Fischer,['armedservices']
-30,M,2014,Flake,"['energy', 'naturalresources']"
-31,M,2014,Franken,"['energy', 'naturalresources']"
-32,M,2014,Gardner,"['commerce', 'science', 'transportation']"
-33,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-34,M,2014,Graham,['appropriations']
-35,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-36,M,2014,Hatch,['finance']
-37,M,2014,Heinrich,['armedservices']
-38,M,2014,Heller,"['banking', 'housing', 'urbanaffairs']"
-39,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-40,M,2014,Inhofe,['armedservices']
-41,M,2014,Isakson,['finance']
-42,M,2014,Johnson,['budget']
-43,M,2014,Kaine,['armedservices']
-44,M,2014,King,['armedservices']
-45,M,2014,Kirk,['appropriations']
-46,M,2014,Lankford,['appropriations']
-47,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-48,M,2014,Lee,['armedservices']
-49,M,2014,Manchin,['armedservices']
-50,M,2014,Markey,"['commerce', 'science', 'transportation']"
-51,M,2014,Mccain,['armedservices']
-52,W,2014,Mccaskill,['armedservices']
-53,M,2014,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-54,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-55,M,2014,Merkley,['appropriations']
-56,M,2014,Moran,['appropriations']
-57,M,2014,Murphy,['appropriations']
-58,W,2014,Murray,['appropriations']
-59,M,2014,Nelson,['armedservices']
-60,M,2014,Paul,['foreignrelations']
-61,M,2014,Perdue,"['agriculture', 'nutrition', 'forestry']"
-62,M,2014,Peters,"['commerce', 'science', 'transportation']"
-63,M,2014,Portman,['budget']
-64,M,2014,Reed,['appropriations']
-65,M,2014,Risch,"['energy', 'naturalresources']"
-66,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-67,M,2014,Rounds,['armedservices']
-68,M,2014,Rubio,"['commerce', 'science', 'transportation']"
-69,M,2014,Sanders,['budget']
-70,M,2014,Sasse,"['agriculture', 'nutrition', 'forestry']"
-71,M,2014,Schatz,['appropriations']
-72,M,2014,Schumer,"['banking', 'housing', 'urbanaffairs']"
-73,M,2014,Scott,"['banking', 'housing', 'urbanaffairs']"
-74,M,2014,Sessions,['armedservices']
-75,W,2014,Shaheen,['appropriations']
-76,M,2014,Shelby,['appropriations']
-77,M,2014,Sullivan,['armedservices']
-78,M,2014,Tester,['appropriations']
-79,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-80,M,2014,Tillis,"['agriculture', 'nutrition', 'forestry']"
-81,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-82,M,2014,Udall,['appropriations']
-83,M,2014,Vitter,"['banking', 'housing', 'urbanaffairs']"
-84,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-85,M,2014,Whitehouse,['budget']
-86,M,2014,Wicker,['armedservices']
-87,M,2014,Wyden,['budget']
-0,M,2014,Alexander,['appropriations']
-1,M,2014,Barrasso,"['energy', 'naturalresources']"
-2,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-3,M,2014,Blumenthal,['armedservices']
-4,M,2014,Blunt,['appropriations']
-5,M,2014,Booker,"['environment', 'publicworks']"
-6,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-7,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-8,M,2014,Burr,['finance']
-9,W,2014,Capito,['appropriations']
-10,M,2014,Cardin,"['environment', 'publicworks']"
-11,M,2014,Carper,"['environment', 'publicworks']"
-12,M,2014,Casey,"['agriculture', 'nutrition', 'forestry']"
-13,M,2014,Cassidy,"['energy', 'naturalresources']"
-14,M,2014,Coons,['appropriations']
-15,M,2014,Corker,"['banking', 'housing', 'urbanaffairs']"
-16,M,2014,Cornyn,['finance']
-17,M,2014,Cotton,['armedservices']
-18,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-19,M,2014,Cruz,['armedservices']
-20,M,2014,Daines,"['agriculture', 'nutrition', 'forestry']"
-21,M,2014,Donnelly,"['agriculture', 'nutrition', 'forestry']"
-22,M,2014,Durbin,['appropriations']
-23,M,2014,Enzi,['budget']
-24,W,2014,Ernst,"['agriculture', 'nutrition', 'forestry']"
-25,W,2014,Feinstein,['appropriations']
-26,W,2014,Fischer,"['agriculture', 'nutrition', 'forestry']"
-27,M,2014,Flake,"['energy', 'naturalresources']"
-28,M,2014,Gardner,['budget']
-29,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-30,M,2014,Graham,['appropriations']
-31,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-32,M,2014,Hatch,['finance']
-33,M,2014,Heinrich,['armedservices']
-34,M,2014,Heller,"['banking', 'housing', 'urbanaffairs']"
-35,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-36,W,2014,Hyde-smith,"['agriculture', 'nutrition', 'forestry']"
-37,M,2014,Inhofe,['armedservices']
-38,M,2014,Isakson,['finance']
-39,M,2014,Johnson,['budget']
-40,M,2014,Jones,"['banking', 'housing', 'urbanaffairs']"
-41,M,2014,Kaine,['armedservices']
-42,M,2014,Kennedy,['appropriations']
-43,M,2014,King,['armedservices']
-44,M,2014,Lankford,['appropriations']
-45,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-46,M,2014,Lee,"['commerce', 'science', 'transportation']"
-47,M,2014,Manchin,['appropriations']
-48,M,2014,Markey,"['commerce', 'science', 'transportation']"
-49,M,2014,"M
-ccain",['armedservices']
-50,W,2014,"M
-ccaskill",['armedservices']
-51,M,2014,"M
-cconnell","['agriculture', 'nutrition', 'forestry']"
-52,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-53,M,2014,Merkley,['appropriations']
-54,M,2014,Moran,['appropriations']
-55,M,2014,Murphy,['appropriations']
-56,W,2014,Murray,['appropriations']
-57,M,2014,Nelson,['armedservices']
-58,M,2014,Paul,['foreignrelations']
-59,M,2014,Perdue,"['agriculture', 'nutrition', 'forestry']"
-60,M,2014,Peters,['armedservices']
-61,M,2014,Portman,"['energy', 'naturalresources']"
-62,M,2014,Reed,['appropriations']
-63,M,2014,Risch,"['energy', 'naturalresources']"
-64,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-65,M,2014,Rounds,['armedservices']
-66,M,2014,Rubio,['appropriations']
-67,M,2014,Sanders,['budget']
-68,M,2014,Sasse,['armedservices']
-69,M,2014,Schatz,['appropriations']
-70,M,2014,Schumer,['rules']
-71,W,2014,Shaheen,['appropriations']
-72,M,2014,Shelby,['appropriations']
-73,M,2014,Sullivan,['armedservices']
-74,M,2014,Tester,['appropriations']
-75,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-76,M,2014,Tillis,['armedservices']
-77,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-78,M,2014,Udall,['appropriations']
-79,M,2014,Van,[]
-80,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-81,M,2014,Whitehouse,['budget']
-82,M,2014,Wicker,['armedservices']
-83,M,2014,Wyden,['budget']
-84,M,2014,Young,"['commerce', 'science', 'transportation']"
-0,M,2014,Alexander,['appropriations']
-1,M,2014,Barrasso,"['energy', 'naturalresources']"
-2,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-3,M,2014,Blumenthal,['armedservices']
-4,M,2014,Blunt,['appropriations']
-5,M,2014,Booker,"['commerce', 'science', 'transportation']"
-6,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-7,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-8,M,2014,Burr,['finance']
-9,W,2014,Capito,['appropriations']
-10,M,2014,Cardin,"['environment', 'publicworks']"
-11,M,2014,Carper,"['environment', 'publicworks']"
-12,M,2014,Casey,"['agriculture', 'nutrition', 'forestry']"
-13,M,2014,Cassidy,"['energy', 'naturalresources']"
-14,M,2014,Cochran,"['agriculture', 'nutrition', 'forestry']"
-15,M,2014,Coons,['appropriations']
-16,M,2014,Corker,"['banking', 'housing', 'urbanaffairs']"
-17,M,2014,Cornyn,['finance']
-18,M,2014,Cotton,['armedservices']
-19,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-20,M,2014,Cruz,['armedservices']
-21,M,2014,Daines,"['agriculture', 'nutrition', 'forestry']"
-22,M,2014,Donnelly,"['agriculture', 'nutrition', 'forestry']"
-23,M,2014,Durbin,['appropriations']
-24,M,2014,Enzi,['budget']
-25,W,2014,Ernst,"['agriculture', 'nutrition', 'forestry']"
-26,W,2014,Feinstein,['appropriations']
-27,W,2014,Fischer,['armedservices']
-28,M,2014,Flake,"['energy', 'naturalresources']"
-29,M,2014,Franken,"['energy', 'naturalresources']"
-30,M,2014,Gardner,['budget']
-31,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-32,M,2014,Graham,['appropriations']
-33,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-34,M,2014,Hatch,['finance']
-35,M,2014,Heinrich,['armedservices']
-36,M,2014,Heller,"['banking', 'housing', 'urbanaffairs']"
-37,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-38,M,2014,Inhofe,['armedservices']
-39,M,2014,Isakson,['finance']
-40,M,2014,Johnson,['budget']
-41,M,2014,Kaine,['armedservices']
-42,M,2014,Kennedy,['appropriations']
-43,M,2014,King,['armedservices']
-44,M,2014,Lankford,['appropriations']
-45,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-46,M,2014,Lee,"['commerce', 'science', 'transportation']"
-47,M,2014,Manchin,['appropriations']
-48,M,2014,Markey,"['commerce', 'science', 'transportation']"
-49,M,2014,Mccain,['armedservices']
-50,W,2014,Mccaskill,['armedservices']
-51,M,2014,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-52,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-53,M,2014,Merkley,['appropriations']
-54,M,2014,Moran,['appropriations']
-55,M,2014,Murphy,['appropriations']
-56,W,2014,Murray,['appropriations']
-57,M,2014,Nelson,['armedservices']
-58,M,2014,Paul,['foreignrelations']
-59,M,2014,Perdue,"['agriculture', 'nutrition', 'forestry']"
-60,M,2014,Peters,['armedservices']
-61,M,2014,Portman,"['energy', 'naturalresources']"
-62,M,2014,Reed,['appropriations']
-63,M,2014,Risch,"['energy', 'naturalresources']"
-64,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-65,M,2014,Rounds,['armedservices']
-66,M,2014,Rubio,['appropriations']
-67,M,2014,Sanders,['budget']
-68,M,2014,Sasse,['armedservices']
-69,M,2014,Schatz,['appropriations']
-70,M,2014,Schumer,"['rules', 'housing', 'urbanaffairs']"
-71,W,2014,Shaheen,['appropriations']
-72,M,2014,Shelby,['appropriations']
-73,M,2014,Strange,"['agriculture', 'nutrition', 'forestry']"
-74,M,2014,Sullivan,['armedservices']
-75,M,2014,Tester,['appropriations']
-76,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-77,M,2014,Tillis,['armedservices']
-78,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-79,M,2014,Udall,['appropriations']
-80,M,2014,Van,"['nutrition', 'forestry']"
-81,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-82,M,2014,Whitehouse,['budget']
-83,M,2014,Wicker,['armedservices']
-84,M,2014,Wyden,['budget']
-85,M,2014,Young,"['commerce', 'science', 'transportation']"
-0,M,2014,Alexander,['appropriations']
-1,M,2014,Barrasso,"['energy', 'naturalresources']"
-2,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-3,W,2014,Blackburn,['armedservices']
-4,M,2014,Blumenthal,['armedservices']
-5,M,2014,Blunt,['appropriations']
-6,M,2014,Booker,"['environment', 'publicworks']"
-7,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-8,M,2014,Braun,"['agriculture', 'nutrition', 'forestry']"
-9,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-10,M,2014,Burr,['finance']
-11,W,2014,Capito,['appropriations']
-12,M,2014,Cardin,"['environment', 'publicworks']"
-13,M,2014,Carper,"['environment', 'publicworks']"
-14,M,2014,Casey,"['agriculture', 'nutrition', 'forestry']"
-15,M,2014,Cassidy,"['energy', 'naturalresources']"
-16,M,2014,Coons,['appropriations']
-17,M,2014,Cornyn,['finance']
-18,M,2014,Cotton,['armedservices']
-19,M,2014,Cramer,['armedservices']
-20,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-21,M,2014,Cruz,"['commerce', 'science', 'transportation']"
-22,M,2014,Daines,['appropriations']
-23,M,2014,Durbin,"['agriculture', 'nutrition', 'forestry']"
-24,M,2014,Enzi,['budget']
-25,W,2014,Feinstein,['appropriations']
-26,W,2014,Fischer,"['agriculture', 'nutrition', 'forestry']"
-27,M,2014,Gardner,"['commerce', 'science', 'transportation']"
-28,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-29,M,2014,Graham,['appropriations']
-30,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-31,M,2014,Hawley,['armedservices']
-32,M,2014,Heinrich,['armedservices']
-33,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-34,W,2014,Hyde-smith,"['agriculture', 'nutrition', 'forestry']"
-35,M,2014,Inhofe,['armedservices']
-36,M,2014,Isakson,['finance']
-37,M,2014,Johnson,['budget']
-38,M,2014,Jones,['armedservices']
-39,M,2014,Kaine,['armedservices']
-40,M,2014,Kennedy,['appropriations']
-41,M,2014,King,['armedservices']
-42,M,2014,Lankford,['appropriations']
-43,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-44,M,2014,Lee,"['commerce', 'science', 'transportation']"
-45,M,2014,Manchin,['appropriations']
-46,M,2014,Markey,"['commerce', 'science', 'transportation']"
-47,M,2014,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-48,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-49,M,2014,Merkley,['appropriations']
-50,M,2014,Moran,['appropriations']
-51,M,2014,Murphy,['appropriations']
-52,W,2014,Murray,['appropriations']
-53,M,2014,Paul,['foreignrelations']
-54,M,2014,Perdue,"['agriculture', 'nutrition', 'forestry']"
-55,M,2014,Peters,['armedservices']
-56,M,2014,Portman,['finance']
-57,M,2014,Reed,['appropriations']
-58,M,2014,Risch,"['energy', 'naturalresources']"
-59,M,2014,Roberts,"['agriculture', 'nutrition', 'forestry']"
-60,M,2014,Romney,['foreignrelations']
-61,M,2014,Rounds,['armedservices']
-62,M,2014,Rubio,['appropriations']
-63,M,2014,Sanders,['budget']
-64,M,2014,Sasse,"['banking', 'housing', 'urbanaffairs']"
-65,M,2014,Schatz,['appropriations']
-66,M,2014,Schumer,['rules']
-67,M,2014,Scott,"['banking', 'housing', 'urbanaffairs']"
-68,W,2014,Shaheen,['appropriations']
-69,M,2014,Shelby,['appropriations']
-70,M,2014,Sullivan,['armedservices']
-71,M,2014,Tester,['appropriations']
-72,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-73,M,2014,Tillis,['armedservices']
-74,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-75,M,2014,Udall,['appropriations']
-76,M,2014,Van,[]
-77,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-78,M,2014,Whitehouse,['budget']
-79,M,2014,Wicker,['armedservices']
-80,M,2014,Wyden,['budget']
-81,M,2014,Young,"['commerce', 'science', 'transportation']"
-0,M,2014,Barrasso,"['energy', 'naturalresources']"
-1,M,2014,Bennet,"['agriculture', 'nutrition', 'forestry']"
-2,W,2014,Blackburn,['armedservices']
-3,M,2014,Blumenthal,['armedservices']
-4,M,2014,Blunt,['appropriations']
-5,M,2014,Booker,"['agriculture', 'nutrition', 'forestry']"
-6,M,2014,Boozman,"['agriculture', 'nutrition', 'forestry']"
-7,M,2014,Braun,"['agriculture', 'nutrition', 'forestry']"
-8,M,2014,Brown,"['agriculture', 'nutrition', 'forestry']"
-9,M,2014,Burr,['finance']
-10,W,2014,Capito,['appropriations']
-11,M,2014,Cardin,"['environment', 'publicworks']"
-12,M,2014,Carper,"['environment', 'publicworks']"
-13,M,2014,Casey,['finance']
-14,M,2014,Cassidy,"['energy', 'naturalresources']"
-15,M,2014,Coons,['appropriations']
-16,M,2014,Cornyn,['finance']
-17,M,2014,Cotton,['armedservices']
-18,M,2014,Cramer,['armedservices']
-19,M,2014,Crapo,"['banking', 'housing', 'urbanaffairs']"
-20,M,2014,Cruz,"['commerce', 'science', 'transportation']"
-21,M,2014,Daines,"['banking', 'housing', 'urbanaffairs']"
-22,M,2014,Durbin,"['agriculture', 'nutrition', 'forestry']"
-23,W,2014,Feinstein,['appropriations']
-24,W,2014,Fischer,"['agriculture', 'nutrition', 'forestry']"
-25,W,2014,Gillibrand,"['agriculture', 'nutrition', 'forestry']"
-26,M,2014,Graham,['appropriations']
-27,M,2014,Grassley,"['agriculture', 'nutrition', 'forestry']"
-28,M,2014,Hagerty,['appropriations']
-29,M,2014,Hawley,['armedservices']
-30,M,2014,Heinrich,['appropriations']
-31,M,2014,Hickenlooper,"['commerce', 'science', 'transportation']"
-32,M,2014,Hoeven,"['agriculture', 'nutrition', 'forestry']"
-33,W,2014,Hyde-smith,"['agriculture', 'nutrition', 'forestry']"
-34,M,2014,Lnhofe,['armedservices']
-35,M,2014,Johnson,['budget']
-36,M,2014,Kaine,['armedservices']
-37,M,2014,Kelly,['armedservices']
-38,M,2014,Kennedy,['appropriations']
-39,M,2014,King,['armedservices']
-40,M,2014,Lankford,"['energy', 'naturalresources']"
-41,M,2014,Leahy,"['agriculture', 'nutrition', 'forestry']"
-42,M,2014,Lee,"['commerce', 'science', 'transportation']"
-43,M,2014,Luja´n,"['agriculture', 'nutrition', 'forestry']"
-44,M,2014,Manchin,['appropriations']
-45,M,2014,Markey,"['commerce', 'science', 'transportation']"
-46,M,2014,Marshall,"['agriculture', 'nutrition', 'forestry']"
-47,M,2014,Mcconnell,"['agriculture', 'nutrition', 'forestry']"
-48,M,2014,Menendez,"['banking', 'housing', 'urbanaffairs']"
-49,M,2014,Merkley,['appropriations']
-50,M,2014,Moran,['appropriations']
-51,M,2014,Murphy,['appropriations']
-52,W,2014,Murray,['appropriations']
-53,M,2014,Ossoff,"['banking', 'housing', 'urbanaffairs']"
-54,M,2014,Padilla,['budget']
-55,M,2014,Paul,['foreignrelations']
-56,M,2014,Peters,['armedservices']
-57,M,2014,Portman,['finance']
-58,M,2014,Reed,['appropriations']
-59,M,2014,Risch,"['energy', 'naturalresources']"
-60,M,2014,Romney,['budget']
-61,M,2014,Rounds,['armedservices']
-62,M,2014,Rubio,['appropriations']
-63,M,2014,Sanders,['budget']
-64,M,2014,Sasse,['budget']
-65,M,2014,Schatz,['appropriations']
-66,M,2014,Schumer,['rules']
-67,M,2014,Scott,"['banking', 'housing', 'urbanaffairs']"
-68,W,2014,Shaheen,['appropriations']
-69,M,2014,Shelby,['appropriations']
-70,M,2014,Sullivan,['armedservices']
-71,M,2014,Tester,['appropriations']
-72,M,2014,Thune,"['agriculture', 'nutrition', 'forestry']"
-73,M,2014,Tillis,['armedservices']
-74,M,2014,Toomey,"['banking', 'housing', 'urbanaffairs']"
-75,M,2014,Tuberville,"['agriculture', 'nutrition', 'forestry']"
-76,M,2014,Van,[]
-77,M,2014,Warner,"['banking', 'housing', 'urbanaffairs']"
-78,M,2014,Warnock,"['agriculture', 'nutrition', 'forestry']"
-79,M,2014,Whitehouse,['budget']
-80,M,2014,Wicker,['armedservices']
-81,M,2014,Wyden,['budget']
-82,M,2014,Young,"['commerce', 'science', 'transportation']"
+cconnell","agriculture, nutrition, and forestry"
+55,M,2014,Menendez,"banking, housing, and urban affairs"
+56,M,2014,Merkley,appropriations
+57,M,2014,Moran,appropriations
+58,M,2014,Murphy,foreign relations
+59,W,2014,Murray,appropriations
+60,M,2014,Nelson,armed services
+61,M,2014,Paul,foreign relations
+62,M,2014,Portman,budget
+63,M,2014,Pryor,appropriations
+64,M,2014,Reed,appropriations
+65,M,2014,Risch,energy and natural resources
+66,M,2014,Roberts,"agriculture, nutrition, and forestry"
+67,M,2014,Rockefeller,"commerce, science, and transportation"
+68,M,2014,Rubio,"commerce, science, and transportation"
+69,M,2014,Sanders,budget
+70,M,2014,Schatz,"commerce, science, and transportation"
+71,M,2014,Schumer,"banking, housing, and urban affairs"
+72,M,2014,Scott,"commerce, science, and transportation"
+73,M,2014,Sessions,armed services
+74,W,2014,Shaheen,appropriations
+75,M,2014,Shelby,appropriations
+76,M,2014,Tester,appropriations
+77,M,2014,Thune,"agriculture, nutrition, and forestry"
+78,M,2014,Toomey,"banking, housing, and urban affairs"
+79,M,2014,Udall,armed services
+80,M,2014,Udall,appropriations
+81,M,2014,Vitter,armed services
+82,M,2014,Walsh,"agriculture, nutrition, and forestry"
+83,M,2014,Warner,"banking, housing, and urban affairs"
+84,M,2014,Whitehouse,budget
+85,M,2014,Wicker,armed services
+86,M,2014,Wyden,budget
+0,M,2013,Alexander,appropriations
+1,M,2013,Barrasso,energy and natural resources
+2,M,2013,Baucus,"agriculture, nutrition, and forestry"
+3,M,2013,Begich,appropriations
+4,M,2013,Bennet,"agriculture, nutrition, and forestry"
+5,M,2013,Blumenthal,armed services
+6,M,2013,Blunt,appropriations
+7,M,2013,Boozman,"agriculture, nutrition, and forestry"
+8,W,2013,Boxer,"commerce, science, and transportation"
+9,M,2013,Brown,"agriculture, nutrition, and forestry"
+10,M,2013,Burr,finance
+11,M,2013,Cardin,environment and public works
+12,M,2013,Carper,environment and public works
+13,M,2013,Casey,finance
+14,M,2013,Chambliss,"agriculture, nutrition, and forestry"
+15,M,2013,Coats,appropriations
+16,M,2013,Coburn,"banking, housing, and urban affairs"
+17,M,2013,Cochran,"agriculture, nutrition, and forestry"
+18,M,2013,Coons,budget
+19,M,2013,Corker,"banking, housing, and urban affairs"
+20,M,2013,Cornyn,finance
+21,M,2013,Cowan,"agriculture, nutrition, and forestry"
+22,M,2013,Crapo,"banking, housing, and urban affairs"
+23,M,2013,Cruz,armed services
+24,M,2013,Donnelly,"agriculture, nutrition, and forestry"
+25,M,2013,Durbin,appropriations
+26,M,2013,Enzi,budget
+27,W,2013,Feinstein,appropriations
+28,W,2013,Fischer,armed services
+29,M,2013,Flake,energy and natural resources
+30,M,2013,Franken,energy and natural resources
+31,W,2013,Gillibrand,"agriculture, nutrition, and forestry"
+32,M,2013,Graham,appropriations
+33,M,2013,Grassley,"agriculture, nutrition, and forestry"
+34,W,2013,Hagan,armed services
+35,M,2013,Harkin,"agriculture, nutrition, and forestry"
+36,M,2013,Hatch,finance
+37,M,2013,Heinrich,energy and natural resources
+38,M,2013,Heller,"banking, housing, and urban affairs"
+39,M,2013,Hoeven,"agriculture, nutrition, and forestry"
+40,M,2013,Inhofe,armed services
+41,M,2013,Isakson,finance
+42,M,2013,Johanns,"agriculture, nutrition, and forestry"
+43,M,2013,Johnson,budget
+44,M,2013,Johnson,appropriations
+45,M,2013,Kaine,armed services
+46,M,2013,King,armed services
+47,M,2013,Kirk,appropriations
+48,M,2013,Lautenberg,appropriations
+49,M,2013,Leahy,"agriculture, nutrition, and forestry"
+50,M,2013,Lee,armed services
+51,M,2013,Levin,armed services
+52,M,2013,Manchin,armed services
+53,M,2013,"M
+ccain",armed services
+54,W,2013,M,armed services
+55,M,2013,"M
+cconnell","agriculture, nutrition, and forestry"
+56,M,2013,Menendez,"banking, housing, and urban affairs"
+57,M,2013,Merkley,appropriations
+58,M,2013,Moran,appropriations
+59,M,2013,Murphy,foreign relations
+60,W,2013,Murray,appropriations
+61,M,2013,Nelson,armed services
+62,M,2013,Paul,foreign relations
+63,M,2013,Portman,budget
+64,M,2013,Pryor,appropriations
+65,M,2013,Reed,appropriations
+66,M,2013,Risch,energy and natural resources
+67,M,2013,Roberts,"agriculture, nutrition, and forestry"
+68,M,2013,Rockefeller,"commerce, science, and transportation"
+69,M,2013,Rubio,"commerce, science, and transportation"
+70,M,2013,Sanders,budget
+71,M,2013,Schatz,"commerce, science, and transportation"
+72,M,2013,Schumer,"banking, housing, and urban affairs"
+73,M,2013,Scott,"commerce, science, and transportation"
+74,M,2013,Sessions,armed services
+75,W,2013,Shaheen,appropriations
+76,M,2013,Shelby,appropriations
+77,M,2013,Tester,appropriations
+78,M,2013,Thune,"agriculture, nutrition, and forestry"
+79,M,2013,Toomey,"banking, housing, and urban affairs"
+80,M,2013,Udall,armed services
+81,M,2013,Udall,appropriations
+82,M,2013,Vitter,armed services
+83,M,2013,Warner,"banking, housing, and urban affairs"
+84,M,2013,Whitehouse,budget
+85,M,2013,Wicker,armed services
+86,M,2013,Wyden,budget
+0,M,2015,Alexander,appropriations
+1,M,2015,Barrasso,energy and natural resources
+2,M,2015,Bennet,"agriculture, nutrition, and forestry"
+3,M,2015,Blumenthal,armed services
+4,M,2015,Blunt,appropriations
+5,M,2015,Booker,"commerce, science, and transportation"
+6,M,2015,Boozman,"agriculture, nutrition, and forestry"
+7,W,2015,Boxer,environment and public works
+8,M,2015,Brown,"agriculture, nutrition, and forestry"
+9,M,2015,Burr,finance
+10,W,2015,Capito,appropriations
+11,M,2015,Cardin,environment and public works
+12,M,2015,Carper,environment and public works
+13,M,2015,Casey,"agriculture, nutrition, and forestry"
+14,M,2015,Cassidy,appropriations
+15,M,2015,Coats,finance
+16,M,2015,Cochran,"agriculture, nutrition, and forestry"
+17,M,2015,Coons,appropriations
+18,M,2015,Corker,"banking, housing, and urban affairs"
+19,M,2015,Cornyn,finance
+20,M,2015,Cotton,armed service
+21,M,2015,Crapo,"banking, housing, and urban affairs"
+22,M,2015,Cruz,armed services
+23,M,2015,Daines,appropriations
+24,M,2015,Donnelly,"agriculture, nutrition, and forestry"
+25,M,2015,Durbin,appropriations
+26,M,2015,Enzi,budget
+27,W,2015,Ernst,"agriculture, nutrition, and forestry"
+28,W,2015,Feinstein,appropriations
+29,W,2015,Fischer,armed services
+30,M,2015,Flake,energy and natural resources
+31,M,2015,Franken,energy and natural resources
+32,M,2015,Gardner,"commerce, science, and transportation"
+33,W,2015,Gillibrand,"agriculture, nutrition, and forestry"
+34,M,2015,Graham,appropriations
+35,M,2015,Grassley,"agriculture, nutrition, and forestry"
+36,M,2015,Hatch,finance
+37,M,2015,Heinrich,armed services
+38,M,2015,Heller,"banking, housing, and urban affairs"
+39,M,2015,Hoeven,"agriculture, nutrition, and forestry"
+40,M,2015,Inhofe,armed services
+41,M,2015,Isakson,finance
+42,M,2015,Johnson,budget
+43,M,2015,Kaine,armed services
+44,M,2015,King,armed services
+45,M,2015,Kirk,appropriations
+46,M,2015,Lankford,appropriations
+47,M,2015,Leahy,"agriculture, nutrition, and forestry"
+48,M,2015,Lee,armed services
+49,M,2015,Manchin,armed services
+50,M,2015,Markey,"commerce, science, and transportation"
+51,M,2015,Mccain,armed services
+52,W,2015,Mccaskill,armed services
+53,M,2015,Mcconnell,"agriculture, nutrition, and forestry"
+54,M,2015,Menendez,"banking, housing, and urban affairs"
+55,M,2015,Merkley,appropriations
+56,M,2015,Moran,appropriations
+57,M,2015,Murphy,appropriations
+58,W,2015,Murray,appropriations
+59,M,2015,Nelson,armed services
+60,M,2015,Paul,foreign relations
+61,M,2015,Perdue,"agriculture, nutrition, and forestry"
+62,M,2015,Peters,"commerce, science, and transportation"
+63,M,2015,Portman,budget
+64,M,2015,Reed,appropriations
+65,M,2015,Risch,energy and natural resources
+66,M,2015,Roberts,"agriculture, nutrition, and forestry"
+67,M,2015,Rounds,armed services
+68,M,2015,Rubio,"commerce, science, and transportation"
+69,M,2015,Sanders,budget
+70,M,2015,Sasse,"agriculture, nutrition, and forestry"
+71,M,2015,Schatz,appropriations
+72,M,2015,Schumer,"banking, housing, and urban affairs"
+73,M,2015,Scott,"banking, housing, and urban affairs"
+74,M,2015,Sessions,armed services
+75,W,2015,Shaheen,appropriations
+76,M,2015,Shelby,appropriations
+77,M,2015,Sullivan,armed services
+78,M,2015,Tester,appropriations
+79,M,2015,Thune,"agriculture, nutrition, and forestry"
+80,M,2015,Tillis,"agriculture, nutrition, and forestry"
+81,M,2015,Toomey,"banking, housing, and urban affairs"
+82,M,2015,Udall,appropriations
+83,M,2015,Vitter,"banking, housing, and urban affairs"
+84,M,2015,Warner,"banking, housing, and urban affairs"
+85,M,2015,Whitehouse,budget
+86,M,2015,Wicker,armed services
+87,M,2015,Wyden,budget
+0,M,2018,Alexander,appropriations
+1,M,2018,Barrasso,energy and natural resources
+2,M,2018,Bennet,"agriculture, nutrition, and forestry"
+3,M,2018,Blumenthal,armed services
+4,M,2018,Blunt,appropriations
+5,M,2018,Booker,environment and public works
+6,M,2018,Boozman,"agriculture, nutrition, and forestry"
+7,M,2018,Brown,"agriculture, nutrition, and forestry"
+8,M,2018,Burr,finance
+9,W,2018,Capito,appropriations
+10,M,2018,Cardin,environment and public works
+11,M,2018,Carper,environment and public works
+12,M,2018,Casey,"agriculture, nutrition, and forestry"
+13,M,2018,Cassidy,energy and natural resources
+14,M,2018,Coons,appropriations
+15,M,2018,Corker,"banking, housing, and urban affairs"
+16,M,2018,Cornyn,finance
+17,M,2018,Cotton,armed services
+18,M,2018,Crapo,"banking, housing, and urban affairs"
+19,M,2018,Cruz,armed services
+20,M,2018,Daines,"agriculture, nutrition, and forestry"
+21,M,2018,Donnelly,"agriculture, nutrition, and forestry"
+22,M,2018,Durbin,appropriations
+23,M,2018,Enzi,budget
+24,W,2018,Ernst,"agriculture, nutrition, and forestry"
+25,W,2018,Feinstein,appropriations
+26,W,2018,Fischer,"agriculture, nutrition, and forestry"
+27,M,2018,Flake,energy and natural resources
+28,M,2018,Gardner,budget
+29,W,2018,Gillibrand,"agriculture, nutrition, and forestry"
+30,M,2018,Graham,appropriations
+31,M,2018,Grassley,"agriculture, nutrition, and forestry"
+32,M,2018,Hatch,finance
+33,M,2018,Heinrich,armed services
+34,M,2018,Heller,"banking, housing, and urban affairs"
+35,M,2018,Hoeven,"agriculture, nutrition, and forestry"
+36,W,2018,Hyde-smith,"agriculture, nutrition, and forestry"
+37,M,2018,Inhofe,armed services
+38,M,2018,Isakson,finance
+39,M,2018,Johnson,budget
+40,M,2018,Jones,"banking, housing, and urban affairs"
+41,M,2018,Kaine,armed services
+42,M,2018,Kennedy,appropriations
+43,M,2018,King,armed services
+44,M,2018,Lankford,appropriations
+45,M,2018,Leahy,"agriculture, nutrition, and forestry"
+46,M,2018,Lee,"commerce, science, and transportation"
+47,M,2018,Manchin,appropriations
+48,M,2018,Markey,"commerce, science, and transportation"
+49,M,2018,"M
+ccain",armed services
+50,W,2018,"M
+ccaskill",armed services
+51,M,2018,"M
+cconnell","agriculture, nutrition, and forestry"
+52,M,2018,Menendez,"banking, housing, and urban affairs"
+53,M,2018,Merkley,appropriations
+54,M,2018,Moran,appropriations
+55,M,2018,Murphy,appropriations
+56,W,2018,Murray,appropriations
+57,M,2018,Nelson,armed services
+58,M,2018,Paul,foreign relations
+59,M,2018,Perdue,"agriculture, nutrition, and forestry"
+60,M,2018,Peters,armed services
+61,M,2018,Portman,energy and natural resources
+62,M,2018,Reed,appropriations
+63,M,2018,Risch,energy and natural resources
+64,M,2018,Roberts,"agriculture, nutrition, and forestry"
+65,M,2018,Rounds,armed services
+66,M,2018,Rubio,appropriations
+67,M,2018,Sanders,budget
+68,M,2018,Sasse,armed services
+69,M,2018,Schatz,appropriations
+70,M,2018,Schumer,rules and administration
+71,W,2018,Shaheen,appropriations
+72,M,2018,Shelby,appropriations
+73,M,2018,Sullivan,armed services
+74,M,2018,Tester,appropriations
+75,M,2018,Thune,"agriculture, nutrition, and forestry"
+76,M,2018,Tillis,armed services
+77,M,2018,Toomey,"banking, housing, and urban affairs"
+78,M,2018,Udall,appropriations
+79,M,2018,Van,appropriations
+80,M,2018,Warner,"banking, housing, and urban affairs"
+81,M,2018,Whitehouse,budget
+82,M,2018,Wicker,armed services
+83,M,2018,Wyden,budget
+84,M,2018,Young,"commerce, science, and transportation"
+0,M,2017,Alexander,appropriations
+1,M,2017,Barrasso,energy and natural resources
+2,M,2017,Bennet,"agriculture, nutrition, and forestry"
+3,M,2017,Blumenthal,armed services
+4,M,2017,Blunt,appropriations
+5,M,2017,Booker,"commerce, science, and transportation"
+6,M,2017,Boozman,"agriculture, nutrition, and forestry"
+7,M,2017,Brown,"agriculture, nutrition, and forestry"
+8,M,2017,Burr,finance
+9,W,2017,Capito,appropriations
+10,M,2017,Cardin,environment and public works
+11,M,2017,Carper,environment and public works
+12,M,2017,Casey,"agriculture, nutrition, and forestry"
+13,M,2017,Cassidy,energy and natural resources
+14,M,2017,Cochran,"agriculture, nutrition, and forestry"
+15,M,2017,Coons,appropriations
+16,M,2017,Corker,"banking, housing, and urban affairs"
+17,M,2017,Cornyn,finance
+18,M,2017,Cotton,armed services
+19,M,2017,Crapo,"banking, housing, and urban affairs"
+20,M,2017,Cruz,armed services
+21,M,2017,Daines,"agriculture, nutrition, and forestry"
+22,M,2017,Donnelly,"agriculture, nutrition, and forestry"
+23,M,2017,Durbin,appropriations
+24,M,2017,Enzi,budget
+25,W,2017,Ernst,"agriculture, nutrition, and forestry"
+26,W,2017,Feinstein,appropriations
+27,W,2017,Fischer,armed services
+28,M,2017,Flake,energy and natural resources
+29,M,2017,Franken,energy and natural resources
+30,M,2017,Gardner,budget
+31,W,2017,Gillibrand,"agriculture, nutrition, and forestry"
+32,M,2017,Graham,appropriations
+33,M,2017,Grassley,"agriculture, nutrition, and forestry"
+34,M,2017,Hatch,finance
+35,M,2017,Heinrich,armed services
+36,M,2017,Heller,"banking, housing, and urban affairs"
+37,M,2017,Hoeven,"agriculture, nutrition, and forestry"
+38,M,2017,Inhofe,armed services
+39,M,2017,Isakson,finance
+40,M,2017,Johnson,budget
+41,M,2017,Kaine,armed services
+42,M,2017,Kennedy,appropriations
+43,M,2017,King,armed services
+44,M,2017,Lankford,appropriations
+45,M,2017,Leahy,"agriculture, nutrition, and forestry"
+46,M,2017,Lee,"commerce, science, and transportation"
+47,M,2017,Manchin,appropriations
+48,M,2017,Markey,"commerce, science, and transportation"
+49,M,2017,Mccain,armed services
+50,W,2017,Mccaskill,armed services
+51,M,2017,Mcconnell,"agriculture, nutrition, and forestry"
+52,M,2017,Menendez,"banking, housing, and urban affairs"
+53,M,2017,Merkley,appropriations
+54,M,2017,Moran,appropriations
+55,M,2017,Murphy,appropriations
+56,W,2017,Murray,appropriations
+57,M,2017,Nelson,armed services
+58,M,2017,Paul,foreign relations
+59,M,2017,Perdue,"agriculture, nutrition, and forestry"
+60,M,2017,Peters,armed services
+61,M,2017,Portman,energy and natural resources
+62,M,2017,Reed,appropriations
+63,M,2017,Risch,energy and natural resources
+64,M,2017,Roberts,"agriculture, nutrition, and forestry"
+65,M,2017,Rounds,armed services
+66,M,2017,Rubio,appropriations
+67,M,2017,Sanders,budget
+68,M,2017,Sasse,armed services
+69,M,2017,Schatz,appropriations
+70,M,2017,Schumer,rules and administration
+71,W,2017,Shaheen,appropriations
+72,M,2017,Shelby,appropriations
+73,M,2017,Strange,"agriculture, nutrition, and forestry"
+74,M,2017,Sullivan,armed services
+75,M,2017,Tester,appropriations
+76,M,2017,Thune,"agriculture, nutrition, and forestry"
+77,M,2017,Tillis,armed services
+78,M,2017,Toomey,"banking, housing, and urban affairs"
+79,M,2017,Udall,appropriations
+80,M,2017,Van,"agriculture, nutrition, and forestry"
+81,M,2017,Warner,"banking, housing, and urban affairs"
+82,M,2017,Whitehouse,budget
+83,M,2017,Wicker,armed services
+84,M,2017,Wyden,budget
+85,M,2017,Young,"commerce, science, and transportation"
+0,M,2019,Alexander,appropriations
+1,M,2019,Barrasso,energy and natural resources
+2,M,2019,Bennet,"agriculture, nutrition, and forestry"
+3,W,2019,Blackburn,armed services
+4,M,2019,Blumenthal,armed services
+5,M,2019,Blunt,appropriations
+6,M,2019,Booker,environment and public works
+7,M,2019,Boozman,"agriculture, nutrition, and forestry"
+8,M,2019,Braun,"agriculture, nutrition, and forestry"
+9,M,2019,Brown,"agriculture, nutrition, and forestry"
+10,M,2019,Burr,finance
+11,W,2019,Capito,appropriations
+12,M,2019,Cardin,environment and public works
+13,M,2019,Carper,environment and public works
+14,M,2019,Casey,"agriculture, nutrition, and forestry"
+15,M,2019,Cassidy,energy and natural resources
+16,M,2019,Coons,appropriations
+17,M,2019,Cornyn,finance
+18,M,2019,Cotton,armed services
+19,M,2019,Cramer,armed services
+20,M,2019,Crapo,"banking, housing, and urban affairs"
+21,M,2019,Cruz,"commerce, science, and transportation"
+22,M,2019,Daines,appropriations
+23,M,2019,Durbin,"agriculture, nutrition, and forestry"
+24,M,2019,Enzi,budget
+25,W,2019,Feinstein,appropriations
+26,W,2019,Fischer,"agriculture, nutrition, and forestry"
+27,M,2019,Gardner,"commerce, science, and transportation"
+28,W,2019,Gillibrand,"agriculture, nutrition, and forestry"
+29,M,2019,Graham,appropriations
+30,M,2019,Grassley,"agriculture, nutrition, and forestry"
+31,M,2019,Hawley,armed services
+32,M,2019,Heinrich,armed services
+33,M,2019,Hoeven,"agriculture, nutrition, and forestry"
+34,W,2019,Hyde-smith,"agriculture, nutrition, and forestry"
+35,M,2019,Inhofe,armed services
+36,M,2019,Isakson,finance
+37,M,2019,Johnson,budget
+38,M,2019,Jones,armed services
+39,M,2019,Kaine,armed services
+40,M,2019,Kennedy,appropriations
+41,M,2019,King,armed services
+42,M,2019,Lankford,appropriations
+43,M,2019,Leahy,"agriculture, nutrition, and forestry"
+44,M,2019,Lee,"commerce, science, and transportation"
+45,M,2019,Manchin,appropriations
+46,M,2019,Markey,"commerce, science, and transportation"
+47,M,2019,Mcconnell,"agriculture, nutrition, and forestry"
+48,M,2019,Menendez,"banking, housing, and urban affairs"
+49,M,2019,Merkley,appropriations
+50,M,2019,Moran,appropriations
+51,M,2019,Murphy,appropriations
+52,W,2019,Murray,appropriations
+53,M,2019,Paul,foreign relations
+54,M,2019,Perdue,"agriculture, nutrition, and forestry"
+55,M,2019,Peters,armed services
+56,M,2019,Portman,finance
+57,M,2019,Reed,appropriations
+58,M,2019,Risch,energy and natural resources
+59,M,2019,Roberts,"agriculture, nutrition, and forestry"
+60,M,2019,Romney,foreign relations
+61,M,2019,Rounds,armed services
+62,M,2019,Rubio,appropriations
+63,M,2019,Sanders,budget
+64,M,2019,Sasse,"banking, housing, and urban affairs"
+65,M,2019,Schatz,appropriations
+66,M,2019,Schumer,rules and administration
+67,M,2019,Scott,"banking, housing, and urban affairs"
+68,W,2019,Shaheen,appropriations
+69,M,2019,Shelby,appropriations
+70,M,2019,Sullivan,armed services
+71,M,2019,Tester,appropriations
+72,M,2019,Thune,"agriculture, nutrition, and forestry"
+73,M,2019,Tillis,armed services
+74,M,2019,Toomey,"banking, housing, and urban affairs"
+75,M,2019,Udall,appropriations
+76,M,2019,Van,appropriations
+77,M,2019,Warner,"banking, housing, and urban affairs"
+78,M,2019,Whitehouse,budget
+79,M,2019,Wicker,armed services
+80,M,2019,Wyden,budget
+81,M,2019,Young,"commerce, science, and transportation"
+0,M,2021,Barrasso,energy and natural resources
+1,M,2021,Bennet,"agriculture, nutrition, and forestry"
+2,W,2021,Blackburn,armed services
+3,M,2021,Blumenthal,armed services
+4,M,2021,Blunt,appropriations
+5,M,2021,Booker,"agriculture, nutrition, and forestry"
+6,M,2021,Boozman,"agriculture, nutrition, and forestry"
+7,M,2021,Braun,"agriculture, nutrition, and forestry"
+8,M,2021,Brown,"agriculture, nutrition, and forestry"
+9,M,2021,Burr,finance
+10,W,2021,Capito,appropriations
+11,M,2021,Cardin,environment and public works
+12,M,2021,Carper,environment and public works
+13,M,2021,Casey,finance
+14,M,2021,Cassidy,energy and natural resources
+15,M,2021,Coons,appropriations
+16,M,2021,Cornyn,finance
+17,M,2021,Cotton,armed services
+18,M,2021,Cramer,armed services
+19,M,2021,Crapo,"banking, housing, and urban affairs"
+20,M,2021,Cruz,"commerce, science, and transportation"
+21,M,2021,Daines,"banking, housing, and urban affairs"
+22,M,2021,Durbin,"agriculture, nutrition, and forestry"
+23,W,2021,Feinstein,appropriations
+24,W,2021,Fischer,"agriculture, nutrition, and forestry"
+25,W,2021,Gillibrand,"agriculture, nutrition, and forestry"
+26,M,2021,Graham,appropriations
+27,M,2021,Grassley,"agriculture, nutrition, and forestry"
+28,M,2021,Hagerty,appropriations
+29,M,2021,Hawley,armed services
+30,M,2021,Heinrich,appropriations
+31,M,2021,Hickenlooper,"commerce, science, and transportation"
+32,M,2021,Hoeven,"agriculture, nutrition, and forestry"
+33,W,2021,Hyde-smith,"agriculture, nutrition, and forestry"
+34,M,2021,Lnhofe,armed services
+35,M,2021,Johnson,budget
+36,M,2021,Kaine,armed services
+37,M,2021,Kelly,armed services
+38,M,2021,Kennedy,appropriations
+39,M,2021,King,armed services
+40,M,2021,Lankford,energy and natural resources
+41,M,2021,Leahy,"agriculture, nutrition, and forestry"
+42,M,2021,Lee,"commerce, science, and transportation"
+43,M,2021,Luja´n,"agriculture, nutrition, and forestry"
+44,M,2021,Manchin,appropriations
+45,M,2021,Markey,"commerce, science, and transportation"
+46,M,2021,Marshall,"agriculture, nutrition, and forestry"
+47,M,2021,Mcconnell,"agriculture, nutrition, and forestry"
+48,M,2021,Menendez,"banking, housing, and urban affairs"
+49,M,2021,Merkley,appropriations
+50,M,2021,Moran,appropriations
+51,M,2021,Murphy,appropriations
+52,W,2021,Murray,appropriations
+53,M,2021,Ossoff,"banking, housing, and urban affairs"
+54,M,2021,Padilla,budget
+55,M,2021,Paul,foreign relations
+56,M,2021,Peters,armed services
+57,M,2021,Portman,finance
+58,M,2021,Reed,appropriations
+59,M,2021,Risch,energy and natural resources
+60,M,2021,Romney,budget
+61,M,2021,Rounds,armed services
+62,M,2021,Rubio,appropriations
+63,M,2021,Sanders,budget
+64,M,2021,Sasse,budget
+65,M,2021,Schatz,appropriations
+66,M,2021,Schumer,rules and administration
+67,M,2021,Scott,"banking, housing, and urban affairs"
+68,W,2021,Shaheen,appropriations
+69,M,2021,Shelby,appropriations
+70,M,2021,Sullivan,armed services
+71,M,2021,Tester,appropriations
+72,M,2021,Thune,"agriculture, nutrition, and forestry"
+73,M,2021,Tillis,armed services
+74,M,2021,Toomey,"banking, housing, and urban affairs"
+75,M,2021,Tuberville,"agriculture, nutrition, and forestry"
+76,M,2021,Van,appropriations
+77,M,2021,Warner,"banking, housing, and urban affairs"
+78,M,2021,Warnock,"agriculture, nutrition, and forestry"
+79,M,2021,Whitehouse,budget
+80,M,2021,Wicker,armed services
+81,M,2021,Wyden,budget
+82,M,2021,Young,"commerce, science, and transportation"

@@ -63,6 +63,7 @@ def pullSenate():
     senatePulled['snp500']=0
     senatePulled.loc[senatePulled['ticker'].isin(snp500tickers).index, 'snp500']=1
     senatePulled['last_name'] = senatePulled['name'].str.split(' ').str[-1]
+    senatePulled.loc[senatePulled['last_name'].str.lower().isin(['x','xi','vii','vi','v','iv','iii','ii','i','jr.','sr.','jr','sr']),'last_name'] = senatePulled.loc[senatePulled['last_name'].str.lower().isin(['x','xi','vii','vi','v','iv','iii','ii','i','jr.','sr.','jr','sr']),'name'].str.split(' ').str[-2]
     senatePulled.to_csv('senate.csv')
 
 def pullHouse():
@@ -126,9 +127,9 @@ def pullHouse():
 
     housePulled['snp500']=0
     housePulled.loc[housePulled['ticker'].isin(snp500tickers).index, 'snp500']=1
-
+    
     housePulled['last_name'] = housePulled['name'].str.split(' ').str[-1]
-
+    housePulled.loc[housePulled['last_name'].str.lower().isin(['x','xi','vii','vi','v','iv','iii','ii','i','jr.','sr.','jr','sr']),'last_name'] = housePulled.loc[housePulled['last_name'].str.lower().isin(['x','xi','vii','vi','v','iv','iii','ii','i','jr.','sr.','jr','sr']),'name'].str.split(' ').str[-2]
     housePulled.to_csv('house.csv')
 
 def pullData():
@@ -244,8 +245,8 @@ def percentChangeOfSnP(pastDate, newDate=todayMS, curSNP='false'):
     toReturn=newPrice/oldPrice
     return(toReturn)
 
-SnPToday = curSnP()
-currentStockPrices = dict()
+# SnPToday = curSnP()
+# currentStockPrices = dict()
 
 def vsSNPPercent(dataIndex, data, currentStockPrices='none'):
     if (currentStockPrices=='none'):
